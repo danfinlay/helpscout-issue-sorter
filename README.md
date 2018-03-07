@@ -12,6 +12,8 @@ Includes 3 scripts:
 
 Requires a `config.json` file with a `key` string (your HelpScout API key) and a `mailboxId` number (your HelpScout mailbox ID number).
 
+You can see the format for `config.json` as `config.json.sample`
+
 To use: `node slurp.js`
 
 ## Analyze
