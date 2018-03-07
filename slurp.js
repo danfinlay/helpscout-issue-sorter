@@ -1,21 +1,14 @@
 const Helpscout = require('helpscout')
-const fs = require('fs')
-const { promisify } = require('util')
-const readFile = promisify(fs.readFile)
-const writeFile = promisify(fs.writeFile)
 const level = require('level')
 const db = level('./issues')
+const config = require('./config.json')
+const { key, mailboxId } = config
 
 let helpscout
-
-const mailboxId = '133541'
 
 start().catch(console.error)
 
 async function start () {
-  const rawFile = await readFile(__dirname + '/key.txt')
-  const key = rawFile.toString()
-
   helpscout = new Helpscout(key, mailboxId)
 
   let pageNum = 0
