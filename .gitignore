@@ -1,2 +1,2967 @@
 key.txt
 node_modules/
+[
+  {
+    "id": 536468833,
+    "type": "email",
+    "folderId": 1780860,
+    "isDraft": false,
+    "number": 10932,
+    "owner": null,
+    "mailbox": {
+      "id": 133541,
+      "name": "Support"
+    },
+    "customer": {
+      "id": 171554852,
+      "firstName": "",
+      "lastName": "",
+      "email": "fhghdfghhghg@hotmail.com",
+      "phone": null,
+      "type": "customer",
+      "emails": [
+        "fhghdfghhghg@hotmail.com"
+      ],
+      "photoUrl": "https://d33v4339jhl8k0.cloudfront.net/customer-avatar/06.png",
+      "customerPersonType": true
+    },
+    "threadCount": 1,
+    "status": "spam",
+    "subject": "~!    . xr",
+    "preview": "ȳ. ~ ?  ־ ˷uϴ.     ߻ϴ ǰ.ǰ! f Ͼ ร 췱 'ืκ  w,  ǻ;   ϰ ȣ  ſְ  : ǰ ־ ˷uϴ. ׻  ̶ð  󱸿 츮 ˺Ͻô° tٰ մϴ     ̰ ƺ𐿡 ǵϴĴϴ. 𻶧   𻶧 尴° ~!   𚼼 :   𙵥  깫 ĳ?",
+    "createdBy": {
+      "id": 171554852,
+      "firstName": "",
+      "lastName": "",
+      "email": "fhghdfghhghg@hotmail.com",
+      "phone": null,
+      "type": "customer",
+      "emails": [
+        "fhghdfghhghg@hotmail.com"
+      ],
+      "photoUrl": "https://d33v4339jhl8k0.cloudfront.net/customer-avatar/06.png",
+      "customerPersonType": true
+    },
+    "createdAt": "2018-03-07T04:34:49Z",
+    "userModifiedAt": "2018-03-07T04:34:49Z",
+    "closedAt": null,
+    "closedBy": null,
+    "source": {
+      "type": "email",
+      "via": "customer"
+    },
+    "createdByType": "customer",
+    "cc": [],
+    "bcc": null,
+    "tags": [],
+    "draft": false,
+    "locked": false,
+    "spam": true
+  },
+  {
+    "id": 536468192,
+    "type": "email",
+    "folderId": 1780860,
+    "isDraft": false,
+    "number": 10931,
+    "owner": null,
+    "mailbox": {
+      "id": 133541,
+      "name": "Support"
+    },
+    "customer": {
+      "id": 171554672,
+      "firstName": "",
+      "lastName": "",
+      "email": "jfdgsjhsdghsdg@hotmail.com",
+      "phone": null,
+      "type": "customer",
+      "emails": [
+        "jfdgsjhsdghsdg@hotmail.com"
+      ],
+      "photoUrl": "https://d33v4339jhl8k0.cloudfront.net/customer-avatar/02.png",
+      "customerPersonType": true
+    },
+    "threadCount": 1,
+    "status": "spam",
+    "subject": "jnjuqarww",
+    "preview": "ȳ  : 帿Ͽ콺  ־   f ִ ᾴ𞸮 帿Ͽ콺 .    ƴ ⺻    尡  ſ پ Ӵ   tٰ մϴ.   f Ű 祷  f 氡 ý   㷹콺 𾿡 'ġ  泻  濵Ű ī氡 ุ   ᶰư ; ߰ ־ ſ 帮 ϴĴϴ.    1 2; 𐸮 2  ;  ᶷ, ",
+    "createdBy": {
+      "id": 171554672,
+      "firstName": "",
+      "lastName": "",
+      "email": "jfdgsjhsdghsdg@hotmail.com",
+      "phone": null,
+      "type": "customer",
+      "emails": [
+        "jfdgsjhsdghsdg@hotmail.com"
+      ],
+      "photoUrl": "https://d33v4339jhl8k0.cloudfront.net/customer-avatar/02.png",
+      "customerPersonType": true
+    },
+    "createdAt": "2018-03-07T04:33:00Z",
+    "userModifiedAt": "2018-03-07T04:33:00Z",
+    "closedAt": null,
+    "closedBy": null,
+    "source": {
+      "type": "email",
+      "via": "customer"
+    },
+    "createdByType": "customer",
+    "cc": [],
+    "bcc": null,
+    "tags": [],
+    "draft": false,
+    "locked": false,
+    "spam": true
+  },
+  {
+    "id": 536467822,
+    "type": "email",
+    "folderId": 1780856,
+    "isDraft": false,
+    "number": 10930,
+    "owner": null,
+    "mailbox": {
+      "id": 133541,
+      "name": "Support"
+    },
+    "customer": {
+      "id": 166399633,
+      "firstName": "Robert",
+      "lastName": "Reifsnyder",
+      "email": "reif99@gmail.com",
+      "phone": null,
+      "type": "customer",
+      "emails": [
+        "reif99@gmail.com"
+      ],
+      "photoUrl": "https://d33v4339jhl8k0.cloudfront.net/customer-avatar/04.png",
+      "customerPersonType": true
+    },
+    "threadCount": 1,
+    "status": "active",
+    "subject": "GTO not showing up in My ether wallet",
+    "preview": "I have GTO coins, I added a custom token to MEW, but balance showing is 0",
+    "createdBy": {
+      "id": 166399633,
+      "firstName": "Robert",
+      "lastName": "Reifsnyder",
+      "email": "reif99@gmail.com",
+      "phone": null,
+      "type": "customer",
+      "emails": [
+        "reif99@gmail.com"
+      ],
+      "photoUrl": "https://d33v4339jhl8k0.cloudfront.net/customer-avatar/04.png",
+      "customerPersonType": true
+    },
+    "createdAt": "2018-03-07T04:32:00Z",
+    "userModifiedAt": "2018-03-07T04:32:00Z",
+    "closedAt": null,
+    "closedBy": null,
+    "source": {
+      "type": "docs",
+      "via": "customer"
+    },
+    "createdByType": "customer",
+    "cc": null,
+    "bcc": null,
+    "tags": [],
+    "draft": false,
+    "locked": false,
+    "spam": false
+  },
+  {
+    "id": 536466478,
+    "type": "email",
+    "folderId": 1780856,
+    "isDraft": false,
+    "number": 10929,
+    "owner": null,
+    "mailbox": {
+      "id": 133541,
+      "name": "Support"
+    },
+    "customer": {
+      "id": 170878167,
+      "firstName": "Juan",
+      "lastName": "Andreu",
+      "email": "andreuj@bellsouth.net",
+      "phone": null,
+      "type": "customer",
+      "emails": [
+        "andreuj@bellsouth.net"
+      ],
+      "photoUrl": "https://d2ojpxxtu63wzl.cloudfront.net/static/0636e3410ae2f5a666abb0f5b5c133e0_63d5fb8609bba6c7020bfacf1bc9ef5c3bd3fd144940efbf525d61d61f4f9319",
+      "customerPersonType": true
+    },
+    "threadCount": 1,
+    "status": "active",
+    "subject": "HACKED MY WALLET",
+    "preview": "MY WALLET GOT HACKED AND THREE COINS/TOKEN WERE TAKING. I MADE A NEW WALLET CAN ALL TOKENS BE MOVE INTO THE NEW WALLET ACCOUNT.",
+    "createdBy": {
+      "id": 170878167,
+      "firstName": "Juan",
+      "lastName": "Andreu",
+      "email": "andreuj@bellsouth.net",
+      "phone": null,
+      "type": "customer",
+      "emails": [
+        "andreuj@bellsouth.net"
+      ],
+      "photoUrl": "https://d2ojpxxtu63wzl.cloudfront.net/static/0636e3410ae2f5a666abb0f5b5c133e0_63d5fb8609bba6c7020bfacf1bc9ef5c3bd3fd144940efbf525d61d61f4f9319",
+      "customerPersonType": true
+    },
+    "createdAt": "2018-03-07T04:27:59Z",
+    "userModifiedAt": "2018-03-07T04:27:59Z",
+    "closedAt": null,
+    "closedBy": null,
+    "source": {
+      "type": "docs",
+      "via": "customer"
+    },
+    "createdByType": "customer",
+    "cc": null,
+    "bcc": null,
+    "tags": [],
+    "draft": false,
+    "locked": false,
+    "spam": false
+  },
+  {
+    "id": 536453722,
+    "type": "email",
+    "folderId": 1780860,
+    "isDraft": false,
+    "number": 10927,
+    "owner": null,
+    "mailbox": {
+      "id": 133541,
+      "name": "Support"
+    },
+    "customer": {
+      "id": 171549414,
+      "firstName": "",
+      "lastName": "",
+      "email": "sinclkim21@naver.com",
+      "phone": null,
+      "type": "customer",
+      "emails": [
+        "sinclkim21@naver.com"
+      ],
+      "photoUrl": "https://d33v4339jhl8k0.cloudfront.net/customer-avatar/05.png",
+      "customerPersonType": true
+    },
+    "threadCount": 1,
+    "status": "spam",
+    "subject": "~!",
+    "preview": "ȳ  : 帿Ͽ콺  ־   f ִ ᾴ𞸮 帿Ͽ콺 .    ƴ ⺻    尡  ſ پ Ӵ   tٰ մϴ.   f Ű 祷  f 氡 ý   㷹콺 𾿡 'ġ  泻  濵Ű ī氡 ุ   ᶰư ; ߰ ־ ſ 帮 ϴĴϴ.    1 2; 𐸮 2  ;  ᶷ, ",
+    "createdBy": {
+      "id": 171549414,
+      "firstName": "",
+      "lastName": "",
+      "email": "sinclkim21@naver.com",
+      "phone": null,
+      "type": "customer",
+      "emails": [
+        "sinclkim21@naver.com"
+      ],
+      "photoUrl": "https://d33v4339jhl8k0.cloudfront.net/customer-avatar/05.png",
+      "customerPersonType": true
+    },
+    "createdAt": "2018-03-07T03:53:48Z",
+    "userModifiedAt": "2018-03-07T03:53:48Z",
+    "closedAt": null,
+    "closedBy": null,
+    "source": {
+      "type": "email",
+      "via": "customer"
+    },
+    "createdByType": "customer",
+    "cc": [],
+    "bcc": null,
+    "tags": [],
+    "draft": false,
+    "locked": false,
+    "spam": true
+  },
+  {
+    "id": 536448404,
+    "type": "email",
+    "folderId": 1780856,
+    "isDraft": false,
+    "number": 10926,
+    "owner": null,
+    "mailbox": {
+      "id": 133541,
+      "name": "Support"
+    },
+    "customer": {
+      "id": 171547351,
+      "firstName": "James",
+      "lastName": "Watts",
+      "email": "james@axess34.com",
+      "phone": null,
+      "type": "customer",
+      "emails": [
+        "james@axess34.com"
+      ],
+      "photoUrl": "https://d33v4339jhl8k0.cloudfront.net/customer-avatar/07.png",
+      "customerPersonType": true
+    },
+    "threadCount": 1,
+    "status": "active",
+    "subject": "Sending BKK",
+    "preview": "I am trying to send BKK to an exchange but keeps failing.  Please let me know what I am doing wrong",
+    "createdBy": {
+      "id": 171547351,
+      "firstName": "James",
+      "lastName": "Watts",
+      "email": "james@axess34.com",
+      "phone": null,
+      "type": "customer",
+      "emails": [
+        "james@axess34.com"
+      ],
+      "photoUrl": "https://d33v4339jhl8k0.cloudfront.net/customer-avatar/07.png",
+      "customerPersonType": true
+    },
+    "createdAt": "2018-03-07T03:37:30Z",
+    "userModifiedAt": "2018-03-07T03:37:30Z",
+    "closedAt": null,
+    "closedBy": null,
+    "source": {
+      "type": "docs",
+      "via": "customer"
+    },
+    "createdByType": "customer",
+    "cc": null,
+    "bcc": null,
+    "tags": [],
+    "draft": false,
+    "locked": false,
+    "spam": false
+  },
+  {
+    "id": 536440991,
+    "type": "email",
+    "folderId": 1780856,
+    "isDraft": false,
+    "number": 10925,
+    "owner": null,
+    "mailbox": {
+      "id": 133541,
+      "name": "Support"
+    },
+    "customer": {
+      "id": 171544552,
+      "firstName": "Noriaki",
+      "lastName": "Tsujimoto",
+      "email": "tsujimoto@oniwanopro.com",
+      "phone": null,
+      "type": "customer",
+      "emails": [
+        "tsujimoto@oniwanopro.com"
+      ],
+      "photoUrl": "https://d33v4339jhl8k0.cloudfront.net/customer-avatar/03.png",
+      "customerPersonType": true
+    },
+    "threadCount": 1,
+    "status": "active",
+    "subject": "recwipt of payment",
+    "preview": "Hi ETH was sent to METAMASUKU more than a Japanese dealings place as \"ZAIF\", but there is no arrival of money.\"ZAIF\" it can be sent neatly from the side. Why isn't it reflected?",
+    "createdBy": {
+      "id": 171544552,
+      "firstName": "Noriaki",
+      "lastName": "Tsujimoto",
+      "email": "tsujimoto@oniwanopro.com",
+      "phone": null,
+      "type": "customer",
+      "emails": [
+        "tsujimoto@oniwanopro.com"
+      ],
+      "photoUrl": "https://d33v4339jhl8k0.cloudfront.net/customer-avatar/03.png",
+      "customerPersonType": true
+    },
+    "createdAt": "2018-03-07T03:15:23Z",
+    "userModifiedAt": "2018-03-07T03:15:23Z",
+    "closedAt": null,
+    "closedBy": null,
+    "source": {
+      "type": "docs",
+      "via": "customer"
+    },
+    "createdByType": "customer",
+    "cc": null,
+    "bcc": null,
+    "tags": [],
+    "draft": false,
+    "locked": false,
+    "spam": false
+  },
+  {
+    "id": 536430714,
+    "type": "email",
+    "folderId": 1780861,
+    "isDraft": false,
+    "number": 10924,
+    "owner": null,
+    "mailbox": {
+      "id": 133541,
+      "name": "Support"
+    },
+    "customer": {
+      "id": 171540871,
+      "firstName": "",
+      "lastName": "",
+      "email": "josephgates36@gmail.com",
+      "phone": null,
+      "type": "customer",
+      "emails": [
+        "josephgates36@gmail.com"
+      ],
+      "photoUrl": "https://d33v4339jhl8k0.cloudfront.net/customer-avatar/03.png",
+      "customerPersonType": true
+    },
+    "threadCount": 2,
+    "status": "closed",
+    "subject": "NOT BEEN ABLE TO ADD TOKEN",
+    "preview": "Hello ,  We are aware that with the latest release of the MetaMask new UI has caused issues with adding tokens. We are working on this issue and have a fix scheduled for a release shortly. We encoura",
+    "createdBy": {
+      "id": 171540871,
+      "firstName": "",
+      "lastName": "",
+      "email": "josephgates36@gmail.com",
+      "phone": null,
+      "type": "customer",
+      "emails": [
+        "josephgates36@gmail.com"
+      ],
+      "photoUrl": "https://d33v4339jhl8k0.cloudfront.net/customer-avatar/03.png",
+      "customerPersonType": true
+    },
+    "createdAt": "2018-03-07T02:48:58Z",
+    "userModifiedAt": "2018-03-07T02:48:58Z",
+    "closedAt": "2018-03-07T02:48:59Z",
+    "closedBy": {
+      "id": 1,
+      "firstName": "Help",
+      "lastName": "Scout",
+      "email": "none@nowhere.com",
+      "phone": null,
+      "type": null,
+      "photoUrl": null
+    },
+    "source": {
+      "type": "docs",
+      "via": "customer"
+    },
+    "createdByType": "customer",
+    "cc": [],
+    "bcc": [],
+    "tags": [],
+    "draft": false,
+    "locked": false,
+    "spam": false
+  },
+  {
+    "id": 536429984,
+    "type": "email",
+    "folderId": 1780861,
+    "isDraft": false,
+    "number": 10923,
+    "owner": null,
+    "mailbox": {
+      "id": 133541,
+      "name": "Support"
+    },
+    "customer": {
+      "id": 171540613,
+      "firstName": "Egor",
+      "lastName": "Gusev",
+      "email": "guy.do.or.die@gmail.com",
+      "phone": null,
+      "type": "customer",
+      "emails": [
+        "guy.do.or.die@gmail.com"
+      ],
+      "photoUrl": "https://d2ojpxxtu63wzl.cloudfront.net/static/bdeaefa5c46e288b78c4171c66fef70f_55822dc037fa74e347340fba17f3e582e0b13b76e0a53319b5afe15dcc19d9d0",
+      "customerPersonType": true
+    },
+    "threadCount": 2,
+    "status": "closed",
+    "subject": "lost wallet after browser crash",
+    "preview": "Hi Egor,Thanks for using MetaMask!If you have your seed phrase, you could restore your accounts and retrieve the private keys. There are two ways:1) After accepting the terms and conditions during se",
+    "createdBy": {
+      "id": 171540613,
+      "firstName": "Egor",
+      "lastName": "Gusev",
+      "email": "guy.do.or.die@gmail.com",
+      "phone": null,
+      "type": "customer",
+      "emails": [
+        "guy.do.or.die@gmail.com"
+      ],
+      "photoUrl": "https://d2ojpxxtu63wzl.cloudfront.net/static/bdeaefa5c46e288b78c4171c66fef70f_55822dc037fa74e347340fba17f3e582e0b13b76e0a53319b5afe15dcc19d9d0",
+      "customerPersonType": true
+    },
+    "createdAt": "2018-03-07T02:46:40Z",
+    "userModifiedAt": "2018-03-07T03:03:19Z",
+    "closedAt": "2018-03-07T03:03:19Z",
+    "closedBy": {
+      "id": 264916,
+      "firstName": "Adam",
+      "lastName": "Ho",
+      "email": "ho.chee.choong@gmail.com",
+      "phone": null,
+      "type": "user",
+      "photoUrl": null
+    },
+    "source": {
+      "type": "email",
+      "via": "customer"
+    },
+    "createdByType": "customer",
+    "cc": null,
+    "bcc": null,
+    "tags": [],
+    "draft": false,
+    "locked": false,
+    "spam": false
+  },
+  {
+    "id": 536411313,
+    "type": "email",
+    "folderId": 1780861,
+    "isDraft": false,
+    "number": 10922,
+    "owner": null,
+    "mailbox": {
+      "id": 133541,
+      "name": "Support"
+    },
+    "customer": {
+      "id": 171534035,
+      "firstName": "Tuan Tran",
+      "lastName": "Anh",
+      "email": "tuanta1986@gmail.com",
+      "phone": null,
+      "type": "customer",
+      "emails": [
+        "tuanta1986@gmail.com"
+      ],
+      "photoUrl": "https://d33v4339jhl8k0.cloudfront.net/customer-avatar/03.png",
+      "customerPersonType": true
+    },
+    "threadCount": 2,
+    "status": "closed",
+    "subject": "Feedback",
+    "preview": "Hi Tuan Tran,Thanks for using MetaMask!Unfortunately because MetaMask only works with the main Ethereum chain, I can't really help you with anything ETC related. We just can't support that chain as it",
+    "createdBy": {
+      "id": 171534035,
+      "firstName": "Tuan Tran",
+      "lastName": "Anh",
+      "email": "tuanta1986@gmail.com",
+      "phone": null,
+      "type": "customer",
+      "emails": [
+        "tuanta1986@gmail.com"
+      ],
+      "photoUrl": "https://d33v4339jhl8k0.cloudfront.net/customer-avatar/03.png",
+      "customerPersonType": true
+    },
+    "createdAt": "2018-03-07T01:58:09Z",
+    "userModifiedAt": "2018-03-07T02:34:24Z",
+    "closedAt": "2018-03-07T02:34:24Z",
+    "closedBy": {
+      "id": 264916,
+      "firstName": "Adam",
+      "lastName": "Ho",
+      "email": "ho.chee.choong@gmail.com",
+      "phone": null,
+      "type": "user",
+      "photoUrl": null
+    },
+    "source": {
+      "type": "email",
+      "via": "customer"
+    },
+    "createdByType": "customer",
+    "cc": [
+      "help@metamask.io"
+    ],
+    "bcc": null,
+    "tags": [],
+    "draft": false,
+    "locked": false,
+    "spam": false
+  },
+  {
+    "id": 536409699,
+    "type": "email",
+    "folderId": 1780860,
+    "isDraft": false,
+    "number": 10921,
+    "owner": null,
+    "mailbox": {
+      "id": 133541,
+      "name": "Support"
+    },
+    "customer": {
+      "id": 171533308,
+      "firstName": "Ryan",
+      "lastName": "McPhillips",
+      "email": "ryan@privatelm.com",
+      "phone": null,
+      "type": "customer",
+      "emails": [
+        "ryan@privatelm.com"
+      ],
+      "photoUrl": "https://d33v4339jhl8k0.cloudfront.net/customer-avatar/03.png",
+      "customerPersonType": true
+    },
+    "threadCount": 1,
+    "status": "spam",
+    "subject": "I think I messed up",
+    "preview": "I setup metamask months ago.   In the process I opened a few wallets, and was using one of them as a main.  Well, when I cleared my cache or browser settings today the plugin asked me input my seed, a",
+    "createdBy": {
+      "id": 171533308,
+      "firstName": "Ryan",
+      "lastName": "McPhillips",
+      "email": "ryan@privatelm.com",
+      "phone": null,
+      "type": "customer",
+      "emails": [
+        "ryan@privatelm.com"
+      ],
+      "photoUrl": "https://d33v4339jhl8k0.cloudfront.net/customer-avatar/03.png",
+      "customerPersonType": true
+    },
+    "createdAt": "2018-03-07T01:54:04Z",
+    "userModifiedAt": "2018-03-07T01:54:04Z",
+    "closedAt": null,
+    "closedBy": null,
+    "source": {
+      "type": "email",
+      "via": "customer"
+    },
+    "createdByType": "customer",
+    "cc": [],
+    "bcc": null,
+    "tags": [],
+    "draft": false,
+    "locked": false,
+    "spam": true
+  },
+  {
+    "id": 536403795,
+    "type": "email",
+    "folderId": 1780861,
+    "isDraft": false,
+    "number": 10920,
+    "owner": null,
+    "mailbox": {
+      "id": 133541,
+      "name": "Support"
+    },
+    "customer": {
+      "id": 171531010,
+      "firstName": "",
+      "lastName": "",
+      "email": "tonik31@list.ru",
+      "phone": null,
+      "type": "customer",
+      "emails": [
+        "tonik31@list.ru"
+      ],
+      "photoUrl": "https://d33v4339jhl8k0.cloudfront.net/customer-avatar/05.png",
+      "customerPersonType": true
+    },
+    "threadCount": 2,
+    "status": "closed",
+    "subject": "plz help",
+    "preview": "Hi ,Thanks for using MetaMask!Unfortunately because MetaMask only works with the main Ethereum chain, I can't really help you with anything ETC related. We just can't support that chain as it's quite ",
+    "createdBy": {
+      "id": 171531010,
+      "firstName": "",
+      "lastName": "",
+      "email": "tonik31@list.ru",
+      "phone": null,
+      "type": "customer",
+      "emails": [
+        "tonik31@list.ru"
+      ],
+      "photoUrl": "https://d33v4339jhl8k0.cloudfront.net/customer-avatar/05.png",
+      "customerPersonType": true
+    },
+    "createdAt": "2018-03-07T01:39:00Z",
+    "userModifiedAt": "2018-03-07T02:36:28Z",
+    "closedAt": "2018-03-07T02:36:28Z",
+    "closedBy": {
+      "id": 264916,
+      "firstName": "Adam",
+      "lastName": "Ho",
+      "email": "ho.chee.choong@gmail.com",
+      "phone": null,
+      "type": "user",
+      "photoUrl": null
+    },
+    "source": {
+      "type": "email",
+      "via": "customer"
+    },
+    "createdByType": "customer",
+    "cc": null,
+    "bcc": null,
+    "tags": [],
+    "draft": false,
+    "locked": false,
+    "spam": false
+  },
+  {
+    "id": 536391256,
+    "type": "email",
+    "folderId": 1795593,
+    "isDraft": false,
+    "number": 10919,
+    "owner": {
+      "id": 250174,
+      "firstName": "Dan",
+      "lastName": "Finlay",
+      "email": "dan.finlay@consensys.net",
+      "phone": null,
+      "type": "user",
+      "photoUrl": "https://d33v4339jhl8k0.cloudfront.net/users/250174.108571.jpg"
+    },
+    "mailbox": {
+      "id": 133541,
+      "name": "Support"
+    },
+    "customer": {
+      "id": 171526235,
+      "firstName": "杨兴",
+      "lastName": "",
+      "email": "xiaoxing200888@gmail.com",
+      "phone": null,
+      "type": "customer",
+      "emails": [
+        "xiaoxing200888@gmail.com"
+      ],
+      "photoUrl": "https://d33v4339jhl8k0.cloudfront.net/customer-avatar/02.png",
+      "customerPersonType": true
+    },
+    "threadCount": 2,
+    "status": "active",
+    "subject": "The state logs of metamask",
+    "preview": "Hi 杨兴,Thanks for using MetaMask!I have sent your state logs to the team. They will help further to resolve your issues.Best,",
+    "createdBy": {
+      "id": 171526235,
+      "firstName": "杨兴",
+      "lastName": "",
+      "email": "xiaoxing200888@gmail.com",
+      "phone": null,
+      "type": "customer",
+      "emails": [
+        "xiaoxing200888@gmail.com"
+      ],
+      "photoUrl": "https://d33v4339jhl8k0.cloudfront.net/customer-avatar/02.png",
+      "customerPersonType": true
+    },
+    "createdAt": "2018-03-07T01:07:30Z",
+    "userModifiedAt": "2018-03-07T04:02:01Z",
+    "closedAt": null,
+    "closedBy": null,
+    "source": {
+      "type": "email",
+      "via": "customer"
+    },
+    "createdByType": "customer",
+    "cc": null,
+    "bcc": null,
+    "tags": [],
+    "draft": false,
+    "locked": false,
+    "spam": false
+  },
+  {
+    "id": 536384139,
+    "type": "email",
+    "folderId": 1780861,
+    "isDraft": false,
+    "number": 10918,
+    "owner": null,
+    "mailbox": {
+      "id": 133541,
+      "name": "Support"
+    },
+    "customer": {
+      "id": 171523544,
+      "firstName": "Daniel",
+      "lastName": "Fetzner",
+      "email": "dfetzner@gmail.com",
+      "phone": null,
+      "type": "customer",
+      "emails": [
+        "dfetzner@gmail.com"
+      ],
+      "photoUrl": "https://d2ojpxxtu63wzl.cloudfront.net/static/ba51586a86a5082d48a743ae69d6167f_42c4d60ce33a6638d3e2cef6d9605b3209ad48189cc2152b7ddaf1f45d6ecdca",
+      "customerPersonType": true
+    },
+    "threadCount": 2,
+    "status": "closed",
+    "subject": "Missing EOS Tokens",
+    "preview": "Hi Daniel,Thanks for using MetaMask!I assume you are using the Chrome browser here.To remove MetaMask from the extension, please follow these steps:Click the three dots at the top right corner of Chro",
+    "createdBy": {
+      "id": 171523544,
+      "firstName": "Daniel",
+      "lastName": "Fetzner",
+      "email": "dfetzner@gmail.com",
+      "phone": null,
+      "type": "customer",
+      "emails": [
+        "dfetzner@gmail.com"
+      ],
+      "photoUrl": "https://d2ojpxxtu63wzl.cloudfront.net/static/ba51586a86a5082d48a743ae69d6167f_42c4d60ce33a6638d3e2cef6d9605b3209ad48189cc2152b7ddaf1f45d6ecdca",
+      "customerPersonType": true
+    },
+    "createdAt": "2018-03-07T00:51:52Z",
+    "userModifiedAt": "2018-03-07T02:54:38Z",
+    "closedAt": "2018-03-07T02:54:38Z",
+    "closedBy": {
+      "id": 264916,
+      "firstName": "Adam",
+      "lastName": "Ho",
+      "email": "ho.chee.choong@gmail.com",
+      "phone": null,
+      "type": "user",
+      "photoUrl": null
+    },
+    "source": {
+      "type": "email",
+      "via": "customer"
+    },
+    "createdByType": "customer",
+    "cc": null,
+    "bcc": null,
+    "tags": [],
+    "draft": false,
+    "locked": false,
+    "spam": false
+  },
+  {
+    "id": 536381074,
+    "type": "email",
+    "folderId": 1780856,
+    "isDraft": false,
+    "number": 10917,
+    "owner": null,
+    "mailbox": {
+      "id": 133541,
+      "name": "Support"
+    },
+    "customer": {
+      "id": 171522561,
+      "firstName": "Arthur",
+      "lastName": "Tomczak",
+      "email": "tzak1221@gmail.com",
+      "phone": null,
+      "type": "customer",
+      "emails": [
+        "tzak1221@gmail.com"
+      ],
+      "photoUrl": "https://d33v4339jhl8k0.cloudfront.net/customer-avatar/02.png",
+      "customerPersonType": true
+    },
+    "threadCount": 1,
+    "status": "active",
+    "subject": "Metamask Vault Decryptor",
+    "preview": "Hello, I have the same problem as this thread, with a variation. https://github.com/MetaMask/metamask-extension/issues/2617  I cannot access my old vault data from Chrome extension from my previous wa",
+    "createdBy": {
+      "id": 171522561,
+      "firstName": "Arthur",
+      "lastName": "Tomczak",
+      "email": "tzak1221@gmail.com",
+      "phone": null,
+      "type": "customer",
+      "emails": [
+        "tzak1221@gmail.com"
+      ],
+      "photoUrl": "https://d33v4339jhl8k0.cloudfront.net/customer-avatar/02.png",
+      "customerPersonType": true
+    },
+    "createdAt": "2018-03-07T00:44:24Z",
+    "userModifiedAt": "2018-03-07T00:44:24Z",
+    "closedAt": null,
+    "closedBy": null,
+    "source": {
+      "type": "docs",
+      "via": "customer"
+    },
+    "createdByType": "customer",
+    "cc": null,
+    "bcc": null,
+    "tags": [],
+    "draft": false,
+    "locked": false,
+    "spam": false
+  },
+  {
+    "id": 536364628,
+    "type": "email",
+    "folderId": 1780856,
+    "isDraft": false,
+    "number": 10916,
+    "owner": null,
+    "mailbox": {
+      "id": 133541,
+      "name": "Support"
+    },
+    "customer": {
+      "id": 171386797,
+      "firstName": "Naurin",
+      "lastName": "Ahmed",
+      "email": "naurinroohi2@gmail.com",
+      "phone": null,
+      "type": "customer",
+      "emails": [
+        "naurinroohi2@gmail.com"
+      ],
+      "photoUrl": "https://d33v4339jhl8k0.cloudfront.net/customer-avatar/03.png",
+      "customerPersonType": true
+    },
+    "threadCount": 1,
+    "status": "active",
+    "subject": "i bought ETH through coinbase",
+    "preview": "hi i bought ETH from coinbase option on Metamask but didnt realise that it was only available to people living in USA  I got connected to Coinbase and bought Etherium but not quite sure where the Eth ",
+    "createdBy": {
+      "id": 171386797,
+      "firstName": "Naurin",
+      "lastName": "Ahmed",
+      "email": "naurinroohi2@gmail.com",
+      "phone": null,
+      "type": "customer",
+      "emails": [
+        "naurinroohi2@gmail.com"
+      ],
+      "photoUrl": "https://d33v4339jhl8k0.cloudfront.net/customer-avatar/03.png",
+      "customerPersonType": true
+    },
+    "createdAt": "2018-03-07T00:07:57Z",
+    "userModifiedAt": "2018-03-07T00:07:57Z",
+    "closedAt": null,
+    "closedBy": null,
+    "source": {
+      "type": "docs",
+      "via": "customer"
+    },
+    "createdByType": "customer",
+    "cc": null,
+    "bcc": null,
+    "tags": [],
+    "draft": false,
+    "locked": false,
+    "spam": false
+  },
+  {
+    "id": 536318615,
+    "type": "email",
+    "folderId": 1780856,
+    "isDraft": false,
+    "number": 10915,
+    "owner": null,
+    "mailbox": {
+      "id": 133541,
+      "name": "Support"
+    },
+    "customer": {
+      "id": 171169905,
+      "firstName": "Ernesto",
+      "lastName": "Cordova",
+      "email": "ernesto.i.cordova@gmail.com",
+      "phone": null,
+      "type": "customer",
+      "emails": [
+        "ernesto.i.cordova@gmail.com"
+      ],
+      "photoUrl": "https://d33v4339jhl8k0.cloudfront.net/customer-avatar/02.png",
+      "customerPersonType": true
+    },
+    "threadCount": 1,
+    "status": "active",
+    "subject": "ghost account / pending transactions",
+    "preview": "@james in this case, shall I ask for a snapshot of the tx on metamask with warning, while advise him to cross check on etherscan?how about the bit to ensure acct wont resend money? Advise him to wait",
+    "createdBy": {
+      "id": 171169905,
+      "firstName": "Ernesto",
+      "lastName": "Cordova",
+      "email": "ernesto.i.cordova@gmail.com",
+      "phone": null,
+      "type": "customer",
+      "emails": [
+        "ernesto.i.cordova@gmail.com"
+      ],
+      "photoUrl": "https://d33v4339jhl8k0.cloudfront.net/customer-avatar/02.png",
+      "customerPersonType": true
+    },
+    "createdAt": "2018-03-06T22:38:32Z",
+    "userModifiedAt": "2018-03-07T03:07:40Z",
+    "closedAt": null,
+    "closedBy": null,
+    "source": {
+      "type": "docs",
+      "via": "customer"
+    },
+    "createdByType": "customer",
+    "cc": null,
+    "bcc": null,
+    "tags": [],
+    "draft": false,
+    "locked": false,
+    "spam": false
+  },
+  {
+    "id": 536280726,
+    "type": "email",
+    "folderId": 1780861,
+    "isDraft": false,
+    "number": 10913,
+    "owner": null,
+    "mailbox": {
+      "id": 133541,
+      "name": "Support"
+    },
+    "customer": {
+      "id": 171489198,
+      "firstName": "Морозова",
+      "lastName": "Ольга",
+      "email": "oliaroz@yandex.ru",
+      "phone": null,
+      "type": "customer",
+      "emails": [
+        "oliaroz@yandex.ru"
+      ],
+      "photoUrl": "https://d33v4339jhl8k0.cloudfront.net/customer-avatar/08.png",
+      "customerPersonType": true
+    },
+    "threadCount": 2,
+    "status": "closed",
+    "subject": "Fwd: УПо поводу обмена ETH",
+    "preview": "Hi Морозова,Thanks for using MetaMask!At present, we do not offer support in Serbian. Could you translate your query in English?Best,",
+    "createdBy": {
+      "id": 171489198,
+      "firstName": "Морозова",
+      "lastName": "Ольга",
+      "email": "oliaroz@yandex.ru",
+      "phone": null,
+      "type": "customer",
+      "emails": [
+        "oliaroz@yandex.ru"
+      ],
+      "photoUrl": "https://d33v4339jhl8k0.cloudfront.net/customer-avatar/08.png",
+      "customerPersonType": true
+    },
+    "createdAt": "2018-03-06T21:38:27Z",
+    "userModifiedAt": "2018-03-07T03:23:02Z",
+    "closedAt": "2018-03-07T03:23:02Z",
+    "closedBy": {
+      "id": 264916,
+      "firstName": "Adam",
+      "lastName": "Ho",
+      "email": "ho.chee.choong@gmail.com",
+      "phone": null,
+      "type": "user",
+      "photoUrl": null
+    },
+    "source": {
+      "type": "email",
+      "via": "customer"
+    },
+    "createdByType": "customer",
+    "cc": [
+      "help@metamask.io"
+    ],
+    "bcc": null,
+    "tags": [],
+    "draft": false,
+    "locked": false,
+    "spam": false
+  },
+  {
+    "id": 536268630,
+    "type": "email",
+    "folderId": 1780856,
+    "isDraft": false,
+    "number": 10912,
+    "owner": null,
+    "mailbox": {
+      "id": 133541,
+      "name": "Support"
+    },
+    "customer": {
+      "id": 171485401,
+      "firstName": "Viktoras",
+      "lastName": "Georgas",
+      "email": "vik_gewrgas@hotmail.com",
+      "phone": null,
+      "type": "customer",
+      "emails": [
+        "vik_gewrgas@hotmail.com"
+      ],
+      "photoUrl": "https://d33v4339jhl8k0.cloudfront.net/customer-avatar/03.png",
+      "customerPersonType": true
+    },
+    "threadCount": 3,
+    "status": "active",
+    "subject": "Re: Problem",
+    "preview": "Then why I cant buy the tokens? Do I need to wait? Can you check the transaction if there's something I should do ? I sent a link at the email before.  Thanks for the fast answer, appreciate it",
+    "createdBy": {
+      "id": 171485401,
+      "firstName": "Viktoras",
+      "lastName": "Georgas",
+      "email": "vik_gewrgas@hotmail.com",
+      "phone": null,
+      "type": "customer",
+      "emails": [
+        "vik_gewrgas@hotmail.com"
+      ],
+      "photoUrl": "https://d33v4339jhl8k0.cloudfront.net/customer-avatar/03.png",
+      "customerPersonType": true
+    },
+    "createdAt": "2018-03-06T21:21:40Z",
+    "userModifiedAt": "2018-03-06T21:32:24Z",
+    "closedAt": null,
+    "closedBy": null,
+    "source": {
+      "type": "email",
+      "via": "customer"
+    },
+    "createdByType": "customer",
+    "cc": [],
+    "bcc": null,
+    "tags": [],
+    "draft": false,
+    "locked": false,
+    "spam": false
+  },
+  {
+    "id": 536262105,
+    "type": "email",
+    "folderId": 1780861,
+    "isDraft": false,
+    "number": 10911,
+    "owner": null,
+    "mailbox": {
+      "id": 133541,
+      "name": "Support"
+    },
+    "customer": {
+      "id": 171483692,
+      "firstName": "Nic",
+      "lastName": "Bergen",
+      "email": "nicbergen@aim.com",
+      "phone": null,
+      "type": "customer",
+      "emails": [
+        "nicbergen@aim.com"
+      ],
+      "photoUrl": "https://d33v4339jhl8k0.cloudfront.net/customer-avatar/04.png",
+      "customerPersonType": true
+    },
+    "threadCount": 4,
+    "status": "closed",
+    "subject": "Re: Classicmask wallet chrome extention",
+    "preview": "Hi Nic,Thanks for using MetaMask!Unfortunately because MetaMask only works with the main Ethereum chain, I can't really help you with anything ETC related. We just can't support that chain as it's qui",
+    "createdBy": {
+      "id": 171483692,
+      "firstName": "Nic",
+      "lastName": "Bergen",
+      "email": "nicbergen@aim.com",
+      "phone": null,
+      "type": "customer",
+      "emails": [
+        "nicbergen@aim.com"
+      ],
+      "photoUrl": "https://d33v4339jhl8k0.cloudfront.net/customer-avatar/04.png",
+      "customerPersonType": true
+    },
+    "createdAt": "2018-03-06T21:12:28Z",
+    "userModifiedAt": "2018-03-07T03:13:27Z",
+    "closedAt": "2018-03-07T03:13:27Z",
+    "closedBy": {
+      "id": 264916,
+      "firstName": "Adam",
+      "lastName": "Ho",
+      "email": "ho.chee.choong@gmail.com",
+      "phone": null,
+      "type": "user",
+      "photoUrl": null
+    },
+    "source": {
+      "type": "email",
+      "via": "customer"
+    },
+    "createdByType": "customer",
+    "cc": null,
+    "bcc": null,
+    "tags": [
+      "etc",
+      "classicmask"
+    ],
+    "draft": false,
+    "locked": false,
+    "spam": false
+  },
+  {
+    "id": 536241209,
+    "type": "email",
+    "folderId": 1780856,
+    "isDraft": false,
+    "number": 10910,
+    "owner": null,
+    "mailbox": {
+      "id": 133541,
+      "name": "Support"
+    },
+    "customer": {
+      "id": 171477275,
+      "firstName": "Jessica",
+      "lastName": "Thiefels",
+      "email": "jt@polyswarm.io",
+      "phone": null,
+      "type": "customer",
+      "emails": [
+        "jt@polyswarm.io"
+      ],
+      "photoUrl": "https://d33v4339jhl8k0.cloudfront.net/customer-avatar/01.png",
+      "customerPersonType": true
+    },
+    "threadCount": 1,
+    "status": "active",
+    "subject": "Guest Post Contribution",
+    "preview": "@james normally do we just close this directly? If not, what do you reckon?",
+    "createdBy": {
+      "id": 171477275,
+      "firstName": "Jessica",
+      "lastName": "Thiefels",
+      "email": "jt@polyswarm.io",
+      "phone": null,
+      "type": "customer",
+      "emails": [
+        "jt@polyswarm.io"
+      ],
+      "photoUrl": "https://d33v4339jhl8k0.cloudfront.net/customer-avatar/01.png",
+      "customerPersonType": true
+    },
+    "createdAt": "2018-03-06T20:43:55Z",
+    "userModifiedAt": "2018-03-07T03:26:25Z",
+    "closedAt": null,
+    "closedBy": null,
+    "source": {
+      "type": "email",
+      "via": "customer"
+    },
+    "createdByType": "customer",
+    "cc": [],
+    "bcc": null,
+    "tags": [],
+    "draft": false,
+    "locked": false,
+    "spam": false
+  },
+  {
+    "id": 536235776,
+    "type": "email",
+    "folderId": 1780856,
+    "isDraft": false,
+    "number": 10909,
+    "owner": null,
+    "mailbox": {
+      "id": 133541,
+      "name": "Support"
+    },
+    "customer": {
+      "id": 171475453,
+      "firstName": "Richard",
+      "lastName": "Lorensyah",
+      "email": "richardlorensyah@hotmail.com",
+      "phone": null,
+      "type": "customer",
+      "emails": [
+        "richardlorensyah@hotmail.com"
+      ],
+      "photoUrl": "https://d33v4339jhl8k0.cloudfront.net/customer-avatar/03.png",
+      "customerPersonType": true
+    },
+    "threadCount": 3,
+    "status": "active",
+    "subject": "Re: Cant add Token on Metamask",
+    "preview": "Hi James  Thanks for the quick reply.  How about the other tokens that i add the other day? Is it automatically deleted if there is no balance? As i cant see what i added the other day.  For the new u",
+    "createdBy": {
+      "id": 171475453,
+      "firstName": "Richard",
+      "lastName": "Lorensyah",
+      "email": "richardlorensyah@hotmail.com",
+      "phone": null,
+      "type": "customer",
+      "emails": [
+        "richardlorensyah@hotmail.com"
+      ],
+      "photoUrl": "https://d33v4339jhl8k0.cloudfront.net/customer-avatar/03.png",
+      "customerPersonType": true
+    },
+    "createdAt": "2018-03-06T20:35:32Z",
+    "userModifiedAt": "2018-03-06T20:43:48Z",
+    "closedAt": null,
+    "closedBy": null,
+    "source": {
+      "type": "docs",
+      "via": "customer"
+    },
+    "createdByType": "customer",
+    "cc": [],
+    "bcc": null,
+    "tags": [],
+    "draft": false,
+    "locked": false,
+    "spam": false
+  },
+  {
+    "id": 536226947,
+    "type": "email",
+    "folderId": 1780856,
+    "isDraft": false,
+    "number": 10908,
+    "owner": null,
+    "mailbox": {
+      "id": 133541,
+      "name": "Support"
+    },
+    "customer": {
+      "id": 171472483,
+      "firstName": "Periklis",
+      "lastName": "Ikonomidis",
+      "email": "ikonomidis.per@gmail.com",
+      "phone": null,
+      "type": "customer",
+      "emails": [
+        "ikonomidis.per@gmail.com"
+      ],
+      "photoUrl": "https://d33v4339jhl8k0.cloudfront.net/customer-avatar/08.png",
+      "customerPersonType": true
+    },
+    "threadCount": 1,
+    "status": "active",
+    "subject": "from PERIKLIS to METAMASK Team",
+    "preview": "Hi there,   Unfortunately I've made the mistake of losing my DEN and Private Key access to my Metamask account. I'm new to crypto and all my money is actually in there. Is there any way I can prove so",
+    "createdBy": {
+      "id": 171472483,
+      "firstName": "Periklis",
+      "lastName": "Ikonomidis",
+      "email": "ikonomidis.per@gmail.com",
+      "phone": null,
+      "type": "customer",
+      "emails": [
+        "ikonomidis.per@gmail.com"
+      ],
+      "photoUrl": "https://d33v4339jhl8k0.cloudfront.net/customer-avatar/08.png",
+      "customerPersonType": true
+    },
+    "createdAt": "2018-03-06T20:23:08Z",
+    "userModifiedAt": "2018-03-06T20:23:08Z",
+    "closedAt": null,
+    "closedBy": null,
+    "source": {
+      "type": "email",
+      "via": "customer"
+    },
+    "createdByType": "customer",
+    "cc": [],
+    "bcc": null,
+    "tags": [],
+    "draft": false,
+    "locked": false,
+    "spam": false
+  },
+  {
+    "id": 536218858,
+    "type": "email",
+    "folderId": 1780856,
+    "isDraft": false,
+    "number": 10907,
+    "owner": null,
+    "mailbox": {
+      "id": 133541,
+      "name": "Support"
+    },
+    "customer": {
+      "id": 171470106,
+      "firstName": "Tyler",
+      "lastName": "Sorensen",
+      "email": "tyler@makerdao.com",
+      "phone": null,
+      "type": "customer",
+      "emails": [
+        "tyler@makerdao.com"
+      ],
+      "photoUrl": "https://d33v4339jhl8k0.cloudfront.net/customer-avatar/01.png",
+      "customerPersonType": true
+    },
+    "threadCount": 1,
+    "status": "active",
+    "subject": "MKR token has not been updated",
+    "preview": "Hi MM team,  I'm reaching out from MakerDAO.  I noticed that the MKR token in your token directory points to our old MKR token address.  MKR was upgraded a few months ago (https://medium.com/@MakerDAO",
+    "createdBy": {
+      "id": 171470106,
+      "firstName": "Tyler",
+      "lastName": "Sorensen",
+      "email": "tyler@makerdao.com",
+      "phone": null,
+      "type": "customer",
+      "emails": [
+        "tyler@makerdao.com"
+      ],
+      "photoUrl": "https://d33v4339jhl8k0.cloudfront.net/customer-avatar/01.png",
+      "customerPersonType": true
+    },
+    "createdAt": "2018-03-06T20:11:49Z",
+    "userModifiedAt": "2018-03-06T20:11:49Z",
+    "closedAt": null,
+    "closedBy": null,
+    "source": {
+      "type": "docs",
+      "via": "customer"
+    },
+    "createdByType": "customer",
+    "cc": null,
+    "bcc": null,
+    "tags": [],
+    "draft": false,
+    "locked": false,
+    "spam": false
+  },
+  {
+    "id": 536191776,
+    "type": "email",
+    "folderId": 1780856,
+    "isDraft": false,
+    "number": 10906,
+    "owner": null,
+    "mailbox": {
+      "id": 133541,
+      "name": "Support"
+    },
+    "customer": {
+      "id": 171461668,
+      "firstName": "Timothy",
+      "lastName": "Perdue",
+      "email": "perdue.timothy@gmail.com",
+      "phone": null,
+      "type": "customer",
+      "emails": [
+        "perdue.timothy@gmail.com"
+      ],
+      "photoUrl": "https://d2ojpxxtu63wzl.cloudfront.net/static/a008a7b4af9b910fef2791bb0d08a659_98c6fc5277c8ec97d5660b84459ffbffb26149a56f93a73f43c201dfa834d268",
+      "customerPersonType": true
+    },
+    "threadCount": 1,
+    "status": "active",
+    "subject": "Trouble Sending UBQ from MEW",
+    "preview": "Hey Folks,  I am having trouble sending UBQ from MEW and have not been able to for months -- I mean its not the worst, it forces me to hodl ;) however I would like to liquidate this and move the asset",
+    "createdBy": {
+      "id": 171461668,
+      "firstName": "Timothy",
+      "lastName": "Perdue",
+      "email": "perdue.timothy@gmail.com",
+      "phone": null,
+      "type": "customer",
+      "emails": [
+        "perdue.timothy@gmail.com"
+      ],
+      "photoUrl": "https://d2ojpxxtu63wzl.cloudfront.net/static/a008a7b4af9b910fef2791bb0d08a659_98c6fc5277c8ec97d5660b84459ffbffb26149a56f93a73f43c201dfa834d268",
+      "customerPersonType": true
+    },
+    "createdAt": "2018-03-06T19:33:35Z",
+    "userModifiedAt": "2018-03-06T19:33:35Z",
+    "closedAt": null,
+    "closedBy": null,
+    "source": {
+      "type": "docs",
+      "via": "customer"
+    },
+    "createdByType": "customer",
+    "cc": null,
+    "bcc": null,
+    "tags": [],
+    "draft": false,
+    "locked": false,
+    "spam": false
+  },
+  {
+    "id": 536187293,
+    "type": "email",
+    "folderId": 1780856,
+    "isDraft": false,
+    "number": 10905,
+    "owner": null,
+    "mailbox": {
+      "id": 133541,
+      "name": "Support"
+    },
+    "customer": {
+      "id": 171460293,
+      "firstName": "Antonio",
+      "lastName": "",
+      "email": "btc4tony@gmail.com",
+      "phone": null,
+      "type": "customer",
+      "emails": [
+        "btc4tony@gmail.com"
+      ],
+      "photoUrl": "https://d33v4339jhl8k0.cloudfront.net/customer-avatar/06.png",
+      "customerPersonType": true
+    },
+    "threadCount": 2,
+    "status": "active",
+    "subject": "Re: As requested (state logs)",
+    "preview": "I decided to try another wallet. So I moved some funds from Eidoo to MEW and moved some tokens to MEW to try to move it to IDEX. I'm getting a different kind of error, unrelated to nonce since this is",
+    "createdBy": {
+      "id": 171460293,
+      "firstName": "Antonio",
+      "lastName": "",
+      "email": "btc4tony@gmail.com",
+      "phone": null,
+      "type": "customer",
+      "emails": [
+        "btc4tony@gmail.com"
+      ],
+      "photoUrl": "https://d33v4339jhl8k0.cloudfront.net/customer-avatar/06.png",
+      "customerPersonType": true
+    },
+    "createdAt": "2018-03-06T19:27:35Z",
+    "userModifiedAt": "2018-03-07T02:11:03Z",
+    "closedAt": null,
+    "closedBy": null,
+    "source": {
+      "type": "email",
+      "via": "customer"
+    },
+    "createdByType": "customer",
+    "cc": [],
+    "bcc": null,
+    "tags": [],
+    "draft": false,
+    "locked": false,
+    "spam": false
+  },
+  {
+    "id": 536183902,
+    "type": "email",
+    "folderId": 1780856,
+    "isDraft": false,
+    "number": 10904,
+    "owner": null,
+    "mailbox": {
+      "id": 133541,
+      "name": "Support"
+    },
+    "customer": {
+      "id": 171458888,
+      "firstName": "Jesus",
+      "lastName": "",
+      "email": "jesus.martinez.hellin@gmail.com",
+      "phone": null,
+      "type": "customer",
+      "emails": [
+        "jesus.martinez.hellin@gmail.com"
+      ],
+      "photoUrl": "https://d33v4339jhl8k0.cloudfront.net/customer-avatar/01.png",
+      "customerPersonType": true
+    },
+    "threadCount": 1,
+    "status": "active",
+    "subject": "I cannot add a new token",
+    "preview": "I have been trying to add a new token using contract address, symbol and decimals but is not working. When I put the contract metamask automaticly finds symbol and decimals properly then I click to Ad",
+    "createdBy": {
+      "id": 171458888,
+      "firstName": "Jesus",
+      "lastName": "",
+      "email": "jesus.martinez.hellin@gmail.com",
+      "phone": null,
+      "type": "customer",
+      "emails": [
+        "jesus.martinez.hellin@gmail.com"
+      ],
+      "photoUrl": "https://d33v4339jhl8k0.cloudfront.net/customer-avatar/01.png",
+      "customerPersonType": true
+    },
+    "createdAt": "2018-03-06T19:23:03Z",
+    "userModifiedAt": "2018-03-06T19:23:03Z",
+    "closedAt": null,
+    "closedBy": null,
+    "source": {
+      "type": "docs",
+      "via": "customer"
+    },
+    "createdByType": "customer",
+    "cc": null,
+    "bcc": null,
+    "tags": [],
+    "draft": false,
+    "locked": false,
+    "spam": false
+  },
+  {
+    "id": 536141000,
+    "type": "email",
+    "folderId": 1780856,
+    "isDraft": false,
+    "number": 10903,
+    "owner": null,
+    "mailbox": {
+      "id": 133541,
+      "name": "Support"
+    },
+    "customer": {
+      "id": 165974240,
+      "firstName": "Joaquim",
+      "lastName": "Souza",
+      "email": "jj.souza44@hotmail.com",
+      "phone": null,
+      "type": "customer",
+      "emails": [
+        "jj.souza44@hotmail.com"
+      ],
+      "photoUrl": "https://d33v4339jhl8k0.cloudfront.net/customer-avatar/04.png",
+      "customerPersonType": true
+    },
+    "threadCount": 1,
+    "status": "active",
+    "subject": "Tokens",
+    "preview": "Olá, boa tarde, Como vocês do suporte devem estar cansados de minha presença, mas eu investi dinheiro e confiei no trabalho e bom desempenho de todos vocês. Pois bem, estou tentando me acertar com",
+    "createdBy": {
+      "id": 165974240,
+      "firstName": "Joaquim",
+      "lastName": "Souza",
+      "email": "jj.souza44@hotmail.com",
+      "phone": null,
+      "type": "customer",
+      "emails": [
+        "jj.souza44@hotmail.com"
+      ],
+      "photoUrl": "https://d33v4339jhl8k0.cloudfront.net/customer-avatar/04.png",
+      "customerPersonType": true
+    },
+    "createdAt": "2018-03-06T18:23:55Z",
+    "userModifiedAt": "2018-03-06T18:23:55Z",
+    "closedAt": null,
+    "closedBy": null,
+    "source": {
+      "type": "email",
+      "via": "customer"
+    },
+    "createdByType": "customer",
+    "cc": [],
+    "bcc": null,
+    "tags": [],
+    "draft": false,
+    "locked": false,
+    "spam": false
+  },
+  {
+    "id": 536133820,
+    "type": "email",
+    "folderId": 1780856,
+    "isDraft": false,
+    "number": 10902,
+    "owner": null,
+    "mailbox": {
+      "id": 133541,
+      "name": "Support"
+    },
+    "customer": {
+      "id": 171443442,
+      "firstName": "Keith C",
+      "lastName": "Fountain",
+      "email": "kcf2526@yahoo.com",
+      "phone": null,
+      "type": "customer",
+      "emails": [
+        "kcf2526@yahoo.com"
+      ],
+      "photoUrl": "https://d33v4339jhl8k0.cloudfront.net/customer-avatar/04.png",
+      "customerPersonType": true
+    },
+    "threadCount": 1,
+    "status": "active",
+    "subject": "new password",
+    "preview": "When I first setting up my MetaMask account I did not stored my password and seedword where it was safe. How can I set up an account with a safe and secure password?",
+    "createdBy": {
+      "id": 171443442,
+      "firstName": "Keith C",
+      "lastName": "Fountain",
+      "email": "kcf2526@yahoo.com",
+      "phone": null,
+      "type": "customer",
+      "emails": [
+        "kcf2526@yahoo.com"
+      ],
+      "photoUrl": "https://d33v4339jhl8k0.cloudfront.net/customer-avatar/04.png",
+      "customerPersonType": true
+    },
+    "createdAt": "2018-03-06T18:13:22Z",
+    "userModifiedAt": "2018-03-06T18:13:22Z",
+    "closedAt": null,
+    "closedBy": null,
+    "source": {
+      "type": "docs",
+      "via": "customer"
+    },
+    "createdByType": "customer",
+    "cc": null,
+    "bcc": null,
+    "tags": [],
+    "draft": false,
+    "locked": false,
+    "spam": false
+  },
+  {
+    "id": 536127847,
+    "type": "email",
+    "folderId": 1780856,
+    "isDraft": false,
+    "number": 10901,
+    "owner": null,
+    "mailbox": {
+      "id": 133541,
+      "name": "Support"
+    },
+    "customer": {
+      "id": 171441651,
+      "firstName": "Yasser Abdelwahed Hassan",
+      "lastName": "Ahmed",
+      "email": "yasserwhh@gmail.com",
+      "phone": null,
+      "type": "customer",
+      "emails": [
+        "yasserwhh@gmail.com"
+      ],
+      "photoUrl": "https://d33v4339jhl8k0.cloudfront.net/customer-avatar/04.png",
+      "customerPersonType": true
+    },
+    "threadCount": 2,
+    "status": "active",
+    "subject": "token",
+    "preview": "Hello Yasser Abdelwahed Hassan,  We are aware that with the latest release of the MetaMask new UI has caused issues with adding tokens. We are working on this issue and have a fix scheduled for a rel",
+    "createdBy": {
+      "id": 171441651,
+      "firstName": "Yasser Abdelwahed Hassan",
+      "lastName": "Ahmed",
+      "email": "yasserwhh@gmail.com",
+      "phone": null,
+      "type": "customer",
+      "emails": [
+        "yasserwhh@gmail.com"
+      ],
+      "photoUrl": "https://d33v4339jhl8k0.cloudfront.net/customer-avatar/04.png",
+      "customerPersonType": true
+    },
+    "createdAt": "2018-03-06T18:05:40Z",
+    "userModifiedAt": "2018-03-06T20:39:59Z",
+    "closedAt": null,
+    "closedBy": null,
+    "source": {
+      "type": "docs",
+      "via": "customer"
+    },
+    "createdByType": "customer",
+    "cc": [],
+    "bcc": [],
+    "tags": [],
+    "draft": false,
+    "locked": false,
+    "spam": false
+  },
+  {
+    "id": 536116979,
+    "type": "email",
+    "folderId": 1780856,
+    "isDraft": false,
+    "number": 10900,
+    "owner": null,
+    "mailbox": {
+      "id": 133541,
+      "name": "Support"
+    },
+    "customer": {
+      "id": 171438490,
+      "firstName": "Alex",
+      "lastName": "Rolle",
+      "email": "ajrolle31@gmail.com",
+      "phone": null,
+      "type": "customer",
+      "emails": [
+        "ajrolle31@gmail.com",
+        "ddtjuice@gmail.com"
+      ],
+      "photoUrl": "https://d2ojpxxtu63wzl.cloudfront.net/static/5dc13eb12b39498505fd65384a97fc70_f06b93a8316b45d5b5911d27373aaaf734e3ee8b08f0e93b486f2b8afd1c3487",
+      "customerPersonType": true
+    },
+    "threadCount": 1,
+    "status": "active",
+    "subject": "Sorry, we are unable to locate this Transaction Hash",
+    "preview": "Every time I try to send ether using my meta mask wallet it says Sorry, we are unable to locate this Transaction Hash. So as of now I have .014706 ether in my meta-mask that is apparently stuck. I can",
+    "createdBy": {
+      "id": 171438490,
+      "firstName": "Alex",
+      "lastName": "Rolle",
+      "email": "ajrolle31@gmail.com",
+      "phone": null,
+      "type": "customer",
+      "emails": [
+        "ajrolle31@gmail.com",
+        "ddtjuice@gmail.com"
+      ],
+      "photoUrl": "https://d2ojpxxtu63wzl.cloudfront.net/static/5dc13eb12b39498505fd65384a97fc70_f06b93a8316b45d5b5911d27373aaaf734e3ee8b08f0e93b486f2b8afd1c3487",
+      "customerPersonType": true
+    },
+    "createdAt": "2018-03-06T17:50:50Z",
+    "userModifiedAt": "2018-03-06T17:50:50Z",
+    "closedAt": null,
+    "closedBy": null,
+    "source": {
+      "type": "docs",
+      "via": "customer"
+    },
+    "createdByType": "customer",
+    "cc": null,
+    "bcc": null,
+    "tags": [],
+    "draft": false,
+    "locked": false,
+    "spam": false
+  },
+  {
+    "id": 536090128,
+    "type": "email",
+    "folderId": 1780856,
+    "isDraft": false,
+    "number": 10899,
+    "owner": null,
+    "mailbox": {
+      "id": 133541,
+      "name": "Support"
+    },
+    "customer": {
+      "id": 171430294,
+      "firstName": "Mack",
+      "lastName": "",
+      "email": "macknetized@gmail.com",
+      "phone": null,
+      "type": "customer",
+      "emails": [
+        "macknetized@gmail.com"
+      ],
+      "photoUrl": "https://d2ojpxxtu63wzl.cloudfront.net/static/af91017a722de4456f874874e86989c7_601aa1b793829d944321166a93d1502f8accb574e4c4663273c60e6377d8bd6d",
+      "customerPersonType": true
+    },
+    "threadCount": 1,
+    "status": "active",
+    "subject": "Can’t send etherium.",
+    "preview": "From Facebook comment   Can't send etherium.  Stuck in metamask.",
+    "createdBy": {
+      "id": 171430294,
+      "firstName": "Mack",
+      "lastName": "",
+      "email": "macknetized@gmail.com",
+      "phone": null,
+      "type": "customer",
+      "emails": [
+        "macknetized@gmail.com"
+      ],
+      "photoUrl": "https://d2ojpxxtu63wzl.cloudfront.net/static/af91017a722de4456f874874e86989c7_601aa1b793829d944321166a93d1502f8accb574e4c4663273c60e6377d8bd6d",
+      "customerPersonType": true
+    },
+    "createdAt": "2018-03-06T17:13:47Z",
+    "userModifiedAt": "2018-03-06T17:13:47Z",
+    "closedAt": null,
+    "closedBy": null,
+    "source": {
+      "type": "email",
+      "via": "customer"
+    },
+    "createdByType": "customer",
+    "cc": [],
+    "bcc": null,
+    "tags": [],
+    "draft": false,
+    "locked": false,
+    "spam": false
+  },
+  {
+    "id": 536069035,
+    "type": "email",
+    "folderId": 1780856,
+    "isDraft": false,
+    "number": 10898,
+    "owner": null,
+    "mailbox": {
+      "id": 133541,
+      "name": "Support"
+    },
+    "customer": {
+      "id": 171424141,
+      "firstName": "Usama",
+      "lastName": "Shams",
+      "email": "usama1988@gmail.com",
+      "phone": null,
+      "type": "customer",
+      "emails": [
+        "usama1988@gmail.com"
+      ],
+      "photoUrl": "https://d2ojpxxtu63wzl.cloudfront.net/static/460ed13efb66fd1b8f413e6ba0c28705_df6eb498f306dde6a6bd432e77b3f18da61afc7950ea6384668bc4486474d1cc",
+      "customerPersonType": true
+    },
+    "threadCount": 1,
+    "status": "active",
+    "subject": "Bad jump destination , Lost my all Ether",
+    "preview": "Hi,  I was withdrawing ether from forkdelta but but transaction failed and I lost my All ether, Please help me and recover it.  https://etherscan.io/tx/0x565f92524a749e1ba79467791e565d32a18940813c49c0",
+    "createdBy": {
+      "id": 171424141,
+      "firstName": "Usama",
+      "lastName": "Shams",
+      "email": "usama1988@gmail.com",
+      "phone": null,
+      "type": "customer",
+      "emails": [
+        "usama1988@gmail.com"
+      ],
+      "photoUrl": "https://d2ojpxxtu63wzl.cloudfront.net/static/460ed13efb66fd1b8f413e6ba0c28705_df6eb498f306dde6a6bd432e77b3f18da61afc7950ea6384668bc4486474d1cc",
+      "customerPersonType": true
+    },
+    "createdAt": "2018-03-06T16:46:49Z",
+    "userModifiedAt": "2018-03-06T16:46:49Z",
+    "closedAt": null,
+    "closedBy": null,
+    "source": {
+      "type": "docs",
+      "via": "customer"
+    },
+    "createdByType": "customer",
+    "cc": null,
+    "bcc": null,
+    "tags": [],
+    "draft": false,
+    "locked": false,
+    "spam": false
+  },
+  {
+    "id": 536052553,
+    "type": "email",
+    "folderId": 1780856,
+    "isDraft": false,
+    "number": 10897,
+    "owner": null,
+    "mailbox": {
+      "id": 133541,
+      "name": "Support"
+    },
+    "customer": {
+      "id": 171419047,
+      "firstName": "Jeff",
+      "lastName": "Winograd",
+      "email": "hawkjeff@mac.com",
+      "phone": null,
+      "type": "customer",
+      "emails": [
+        "hawkjeff@mac.com"
+      ],
+      "photoUrl": "https://d2ojpxxtu63wzl.cloudfront.net/static/a3b555fc815495c52605d1d8f91353da_8265e084cd6301d12e70fe0459604d178e4f4bb52ba0c95fabd5ee4852bfca3f",
+      "customerPersonType": true
+    },
+    "threadCount": 1,
+    "status": "active",
+    "subject": "ETC tokens",
+    "preview": "Hi there.   I recently moved some ETC tokens to MEW. They recommended that I access them through MetaMask so I followed instructions and moved coins there. I saw the coins in my MetaMask list and all ",
+    "createdBy": {
+      "id": 171419047,
+      "firstName": "Jeff",
+      "lastName": "Winograd",
+      "email": "hawkjeff@mac.com",
+      "phone": null,
+      "type": "customer",
+      "emails": [
+        "hawkjeff@mac.com"
+      ],
+      "photoUrl": "https://d2ojpxxtu63wzl.cloudfront.net/static/a3b555fc815495c52605d1d8f91353da_8265e084cd6301d12e70fe0459604d178e4f4bb52ba0c95fabd5ee4852bfca3f",
+      "customerPersonType": true
+    },
+    "createdAt": "2018-03-06T16:25:34Z",
+    "userModifiedAt": "2018-03-06T16:25:34Z",
+    "closedAt": null,
+    "closedBy": null,
+    "source": {
+      "type": "email",
+      "via": "customer"
+    },
+    "createdByType": "customer",
+    "cc": [],
+    "bcc": null,
+    "tags": [],
+    "draft": false,
+    "locked": false,
+    "spam": false
+  },
+  {
+    "id": 536022566,
+    "type": "email",
+    "folderId": 1780856,
+    "isDraft": false,
+    "number": 10896,
+    "owner": null,
+    "mailbox": {
+      "id": 133541,
+      "name": "Support"
+    },
+    "customer": {
+      "id": 171409957,
+      "firstName": "Eduardo",
+      "lastName": "",
+      "email": "eduardo.milanes@sucfin.com",
+      "phone": null,
+      "type": "customer",
+      "emails": [
+        "eduardo.milanes@sucfin.com"
+      ],
+      "photoUrl": "https://d33v4339jhl8k0.cloudfront.net/customer-avatar/02.png",
+      "customerPersonType": true
+    },
+    "threadCount": 1,
+    "status": "active",
+    "subject": "help",
+    "preview": "Hi I never saw step number 5 where it says that You are now shown 12 words, this is a fancy private key which creates ...... dont see the 12 words, cant copy to clipboard hence, etc can you help pls",
+    "createdBy": {
+      "id": 171409957,
+      "firstName": "Eduardo",
+      "lastName": "",
+      "email": "eduardo.milanes@sucfin.com",
+      "phone": null,
+      "type": "customer",
+      "emails": [
+        "eduardo.milanes@sucfin.com"
+      ],
+      "photoUrl": "https://d33v4339jhl8k0.cloudfront.net/customer-avatar/02.png",
+      "customerPersonType": true
+    },
+    "createdAt": "2018-03-06T15:47:54Z",
+    "userModifiedAt": "2018-03-06T15:47:54Z",
+    "closedAt": null,
+    "closedBy": null,
+    "source": {
+      "type": "docs",
+      "via": "customer"
+    },
+    "createdByType": "customer",
+    "cc": null,
+    "bcc": null,
+    "tags": [],
+    "draft": false,
+    "locked": false,
+    "spam": false
+  },
+  {
+    "id": 536013734,
+    "type": "email",
+    "folderId": 1780856,
+    "isDraft": false,
+    "number": 10895,
+    "owner": null,
+    "mailbox": {
+      "id": 133541,
+      "name": "Support"
+    },
+    "customer": {
+      "id": 171407082,
+      "firstName": "Jacquest",
+      "lastName": "",
+      "email": "joepublicfilms@yahoo.com",
+      "phone": null,
+      "type": "customer",
+      "emails": [
+        "joepublicfilms@yahoo.com"
+      ],
+      "photoUrl": "https://d2ojpxxtu63wzl.cloudfront.net/static/a8d7a91949cdb9e6b1eb9a06c83a3edd_2ca3a1132ac3cc02bcdf9090ea292d91da4fc2cd793c275316b3bfb0d5c8eb57",
+      "customerPersonType": true
+    },
+    "threadCount": 1,
+    "status": "active",
+    "subject": "Chrome browser",
+    "preview": "Greetings,   I've seen reports since 2016 that Google is going to stop supporting Chrome on Macs, which is all I have for devices. Since my MetaMask account hangs out on my Chrome browser, should I mo",
+    "createdBy": {
+      "id": 171407082,
+      "firstName": "Jacquest",
+      "lastName": "",
+      "email": "joepublicfilms@yahoo.com",
+      "phone": null,
+      "type": "customer",
+      "emails": [
+        "joepublicfilms@yahoo.com"
+      ],
+      "photoUrl": "https://d2ojpxxtu63wzl.cloudfront.net/static/a8d7a91949cdb9e6b1eb9a06c83a3edd_2ca3a1132ac3cc02bcdf9090ea292d91da4fc2cd793c275316b3bfb0d5c8eb57",
+      "customerPersonType": true
+    },
+    "createdAt": "2018-03-06T15:35:33Z",
+    "userModifiedAt": "2018-03-06T15:35:33Z",
+    "closedAt": null,
+    "closedBy": null,
+    "source": {
+      "type": "email",
+      "via": "customer"
+    },
+    "createdByType": "customer",
+    "cc": [],
+    "bcc": null,
+    "tags": [],
+    "draft": false,
+    "locked": false,
+    "spam": false
+  },
+  {
+    "id": 536011586,
+    "type": "email",
+    "folderId": 1780856,
+    "isDraft": false,
+    "number": 10894,
+    "owner": null,
+    "mailbox": {
+      "id": 133541,
+      "name": "Support"
+    },
+    "customer": {
+      "id": 171406527,
+      "firstName": "David",
+      "lastName": "Köhneke",
+      "email": "koehneke@outlook.de",
+      "phone": null,
+      "type": "customer",
+      "emails": [
+        "koehneke@outlook.de"
+      ],
+      "photoUrl": "https://d33v4339jhl8k0.cloudfront.net/customer-avatar/02.png",
+      "customerPersonType": true
+    },
+    "threadCount": 1,
+    "status": "active",
+    "subject": "Microsoft Edge Extension",
+    "preview": "Hi there,  are you planing to make an Extension for the Microsoft Edge Browser?  Keep up the great Work! The beta looks sexy!   Greetings from Germany   David",
+    "createdBy": {
+      "id": 171406527,
+      "firstName": "David",
+      "lastName": "Köhneke",
+      "email": "koehneke@outlook.de",
+      "phone": null,
+      "type": "customer",
+      "emails": [
+        "koehneke@outlook.de"
+      ],
+      "photoUrl": "https://d33v4339jhl8k0.cloudfront.net/customer-avatar/02.png",
+      "customerPersonType": true
+    },
+    "createdAt": "2018-03-06T15:32:34Z",
+    "userModifiedAt": "2018-03-06T15:32:34Z",
+    "closedAt": null,
+    "closedBy": null,
+    "source": {
+      "type": "email",
+      "via": "customer"
+    },
+    "createdByType": "customer",
+    "cc": [],
+    "bcc": null,
+    "tags": [],
+    "draft": false,
+    "locked": false,
+    "spam": false
+  },
+  {
+    "id": 536010068,
+    "type": "email",
+    "folderId": 1780861,
+    "isDraft": false,
+    "number": 10893,
+    "owner": null,
+    "mailbox": {
+      "id": 133541,
+      "name": "Support"
+    },
+    "customer": {
+      "id": 171406101,
+      "firstName": "",
+      "lastName": "",
+      "email": "homeniiru@gmail.com",
+      "phone": null,
+      "type": "customer",
+      "emails": [
+        "homeniiru@gmail.com"
+      ],
+      "photoUrl": "https://d33v4339jhl8k0.cloudfront.net/customer-avatar/03.png",
+      "customerPersonType": true
+    },
+    "threadCount": 2,
+    "status": "closed",
+    "subject": "Account 2",
+    "preview": "Hi ,Thanks for using MetaMask!I believe you may have restored your MetaMask account earlier.After restoring with your seed phrase you must click the \"Create Account\" button from the drop down menu - f",
+    "createdBy": {
+      "id": 171406101,
+      "firstName": "",
+      "lastName": "",
+      "email": "homeniiru@gmail.com",
+      "phone": null,
+      "type": "customer",
+      "emails": [
+        "homeniiru@gmail.com"
+      ],
+      "photoUrl": "https://d33v4339jhl8k0.cloudfront.net/customer-avatar/03.png",
+      "customerPersonType": true
+    },
+    "createdAt": "2018-03-06T15:30:41Z",
+    "userModifiedAt": "2018-03-07T04:40:57Z",
+    "closedAt": "2018-03-07T04:40:57Z",
+    "closedBy": {
+      "id": 264916,
+      "firstName": "Adam",
+      "lastName": "Ho",
+      "email": "ho.chee.choong@gmail.com",
+      "phone": null,
+      "type": "user",
+      "photoUrl": null
+    },
+    "source": {
+      "type": "docs",
+      "via": "customer"
+    },
+    "createdByType": "customer",
+    "cc": null,
+    "bcc": null,
+    "tags": [],
+    "draft": false,
+    "locked": false,
+    "spam": false
+  },
+  {
+    "id": 536005203,
+    "type": "email",
+    "folderId": 1780856,
+    "isDraft": false,
+    "number": 10892,
+    "owner": null,
+    "mailbox": {
+      "id": 133541,
+      "name": "Support"
+    },
+    "customer": {
+      "id": 171404465,
+      "firstName": "Robyn",
+      "lastName": "Martin",
+      "email": "robynmartin559@gmail.com",
+      "phone": null,
+      "type": "customer",
+      "emails": [
+        "robynmartin559@gmail.com"
+      ],
+      "photoUrl": "https://d33v4339jhl8k0.cloudfront.net/customer-avatar/01.png",
+      "customerPersonType": true
+    },
+    "threadCount": 2,
+    "status": "active",
+    "subject": "Re:",
+    "preview": "Thank you for your response.  robynmartin6",
+    "createdBy": {
+      "id": 171404465,
+      "firstName": "Robyn",
+      "lastName": "Martin",
+      "email": "robynmartin559@gmail.com",
+      "phone": null,
+      "type": "customer",
+      "emails": [
+        "robynmartin559@gmail.com"
+      ],
+      "photoUrl": "https://d33v4339jhl8k0.cloudfront.net/customer-avatar/01.png",
+      "customerPersonType": true
+    },
+    "createdAt": "2018-03-06T15:24:29Z",
+    "userModifiedAt": "2018-03-06T17:15:51Z",
+    "closedAt": null,
+    "closedBy": null,
+    "source": {
+      "type": "email",
+      "via": "customer"
+    },
+    "createdByType": "customer",
+    "cc": [],
+    "bcc": null,
+    "tags": [],
+    "draft": false,
+    "locked": false,
+    "spam": false
+  },
+  {
+    "id": 535951761,
+    "type": "email",
+    "folderId": 1780856,
+    "isDraft": false,
+    "number": 10889,
+    "owner": null,
+    "mailbox": {
+      "id": 133541,
+      "name": "Support"
+    },
+    "customer": {
+      "id": 171388114,
+      "firstName": "Peter",
+      "lastName": "Hayley-Barker",
+      "email": "petehayleybarker@gmail.com",
+      "phone": null,
+      "type": "customer",
+      "emails": [
+        "petehayleybarker@gmail.com"
+      ],
+      "photoUrl": "https://d33v4339jhl8k0.cloudfront.net/customer-avatar/04.png",
+      "customerPersonType": true
+    },
+    "threadCount": 4,
+    "status": "active",
+    "subject": "Re: Problems adding tokens",
+    "preview": "Hello Peter,  We are aware that with the latest release of the MetaMask new UI has caused issues with adding tokens. We are working on this issue and have a fix scheduled for a release shortly. We en",
+    "createdBy": {
+      "id": 171388114,
+      "firstName": "Peter",
+      "lastName": "Hayley-Barker",
+      "email": "petehayleybarker@gmail.com",
+      "phone": null,
+      "type": "customer",
+      "emails": [
+        "petehayleybarker@gmail.com"
+      ],
+      "photoUrl": "https://d33v4339jhl8k0.cloudfront.net/customer-avatar/04.png",
+      "customerPersonType": true
+    },
+    "createdAt": "2018-03-06T14:13:08Z",
+    "userModifiedAt": "2018-03-06T20:39:59Z",
+    "closedAt": null,
+    "closedBy": null,
+    "source": {
+      "type": "email",
+      "via": "customer"
+    },
+    "createdByType": "customer",
+    "cc": [],
+    "bcc": [],
+    "tags": [],
+    "draft": false,
+    "locked": false,
+    "spam": false
+  },
+  {
+    "id": 535948738,
+    "type": "email",
+    "folderId": 1780856,
+    "isDraft": false,
+    "number": 10888,
+    "owner": null,
+    "mailbox": {
+      "id": 133541,
+      "name": "Support"
+    },
+    "customer": {
+      "id": 171387197,
+      "firstName": "Bernardett",
+      "lastName": "",
+      "email": "marrybernardett@gmail.com",
+      "phone": null,
+      "type": "customer",
+      "emails": [
+        "marrybernardett@gmail.com"
+      ],
+      "photoUrl": "https://d33v4339jhl8k0.cloudfront.net/customer-avatar/07.png",
+      "customerPersonType": true
+    },
+    "threadCount": 1,
+    "status": "active",
+    "subject": "Adding tokens",
+    "preview": "Hi, I've failed to add ECR20 and ECIO tokens to metamask. Any help is appreciated. Thanks.",
+    "createdBy": {
+      "id": 171387197,
+      "firstName": "Bernardett",
+      "lastName": "",
+      "email": "marrybernardett@gmail.com",
+      "phone": null,
+      "type": "customer",
+      "emails": [
+        "marrybernardett@gmail.com"
+      ],
+      "photoUrl": "https://d33v4339jhl8k0.cloudfront.net/customer-avatar/07.png",
+      "customerPersonType": true
+    },
+    "createdAt": "2018-03-06T14:09:15Z",
+    "userModifiedAt": "2018-03-06T14:09:15Z",
+    "closedAt": null,
+    "closedBy": null,
+    "source": {
+      "type": "docs",
+      "via": "customer"
+    },
+    "createdByType": "customer",
+    "cc": null,
+    "bcc": null,
+    "tags": [],
+    "draft": false,
+    "locked": false,
+    "spam": false
+  },
+  {
+    "id": 535947667,
+    "type": "email",
+    "folderId": 1780856,
+    "isDraft": false,
+    "number": 10887,
+    "owner": null,
+    "mailbox": {
+      "id": 133541,
+      "name": "Support"
+    },
+    "customer": {
+      "id": 171386797,
+      "firstName": "Naurin",
+      "lastName": "Ahmed",
+      "email": "naurinroohi2@gmail.com",
+      "phone": null,
+      "type": "customer",
+      "emails": [
+        "naurinroohi2@gmail.com"
+      ],
+      "photoUrl": "https://d33v4339jhl8k0.cloudfront.net/customer-avatar/03.png",
+      "customerPersonType": true
+    },
+    "threadCount": 1,
+    "status": "active",
+    "subject": "bought Eth from coinbase",
+    "preview": "Hi i bought Eth from Coinbase and it hasnt arrived????",
+    "createdBy": {
+      "id": 171386797,
+      "firstName": "Naurin",
+      "lastName": "Ahmed",
+      "email": "naurinroohi2@gmail.com",
+      "phone": null,
+      "type": "customer",
+      "emails": [
+        "naurinroohi2@gmail.com"
+      ],
+      "photoUrl": "https://d33v4339jhl8k0.cloudfront.net/customer-avatar/03.png",
+      "customerPersonType": true
+    },
+    "createdAt": "2018-03-06T14:07:33Z",
+    "userModifiedAt": "2018-03-06T14:07:33Z",
+    "closedAt": null,
+    "closedBy": null,
+    "source": {
+      "type": "docs",
+      "via": "customer"
+    },
+    "createdByType": "customer",
+    "cc": null,
+    "bcc": null,
+    "tags": [],
+    "draft": false,
+    "locked": false,
+    "spam": false
+  },
+  {
+    "id": 535939948,
+    "type": "email",
+    "folderId": 1780856,
+    "isDraft": false,
+    "number": 10886,
+    "owner": null,
+    "mailbox": {
+      "id": 133541,
+      "name": "Support"
+    },
+    "customer": {
+      "id": 171384332,
+      "firstName": "Krzysztof",
+      "lastName": "Kossiński",
+      "email": "krzysztof.kossinski@gmail.com",
+      "phone": null,
+      "type": "customer",
+      "emails": [
+        "krzysztof.kossinski@gmail.com"
+      ],
+      "photoUrl": "https://d33v4339jhl8k0.cloudfront.net/customer-avatar/06.png",
+      "customerPersonType": true
+    },
+    "threadCount": 1,
+    "status": "active",
+    "subject": "0.34ETH dissapearded",
+    "preview": "Hello,  I am writing to you regarding my ETH wallet ( 0xb8bf9EF591C68b15f494bAC75A64daeaE4bd34dB )and MetaMask. Some time ago I wanted to participate in ceek.io ICO. I have 0.34 ETH to their adres, ho",
+    "createdBy": {
+      "id": 171384332,
+      "firstName": "Krzysztof",
+      "lastName": "Kossiński",
+      "email": "krzysztof.kossinski@gmail.com",
+      "phone": null,
+      "type": "customer",
+      "emails": [
+        "krzysztof.kossinski@gmail.com"
+      ],
+      "photoUrl": "https://d33v4339jhl8k0.cloudfront.net/customer-avatar/06.png",
+      "customerPersonType": true
+    },
+    "createdAt": "2018-03-06T13:55:38Z",
+    "userModifiedAt": "2018-03-06T13:55:38Z",
+    "closedAt": null,
+    "closedBy": null,
+    "source": {
+      "type": "docs",
+      "via": "customer"
+    },
+    "createdByType": "customer",
+    "cc": null,
+    "bcc": null,
+    "tags": [],
+    "draft": false,
+    "locked": false,
+    "spam": false
+  },
+  {
+    "id": 535926049,
+    "type": "email",
+    "folderId": 1780856,
+    "isDraft": false,
+    "number": 10878,
+    "owner": null,
+    "mailbox": {
+      "id": 133541,
+      "name": "Support"
+    },
+    "customer": {
+      "id": 171379681,
+      "firstName": "Monchico",
+      "lastName": "Jo",
+      "email": "token4yo@gmail.com",
+      "phone": null,
+      "type": "customer",
+      "emails": [
+        "token4yo@gmail.com"
+      ],
+      "photoUrl": "https://d33v4339jhl8k0.cloudfront.net/customer-avatar/02.png",
+      "customerPersonType": true
+    },
+    "threadCount": 1,
+    "status": "active",
+    "subject": "Cant add new Tokens",
+    "preview": "Hello,  I cant add new tokens, i put all the data but when i press ADD dont make anything. I'd added other tokens but yesterday start with this problem",
+    "createdBy": {
+      "id": 171379681,
+      "firstName": "Monchico",
+      "lastName": "Jo",
+      "email": "token4yo@gmail.com",
+      "phone": null,
+      "type": "customer",
+      "emails": [
+        "token4yo@gmail.com"
+      ],
+      "photoUrl": "https://d33v4339jhl8k0.cloudfront.net/customer-avatar/02.png",
+      "customerPersonType": true
+    },
+    "createdAt": "2018-03-06T13:31:12Z",
+    "userModifiedAt": "2018-03-06T13:31:12Z",
+    "closedAt": null,
+    "closedBy": null,
+    "source": {
+      "type": "docs",
+      "via": "customer"
+    },
+    "createdByType": "customer",
+    "cc": null,
+    "bcc": null,
+    "tags": [],
+    "draft": false,
+    "locked": false,
+    "spam": false
+  },
+  {
+    "id": 535911245,
+    "type": "email",
+    "folderId": 1780861,
+    "isDraft": false,
+    "number": 10872,
+    "owner": null,
+    "mailbox": {
+      "id": 133541,
+      "name": "Support"
+    },
+    "customer": {
+      "id": 171374772,
+      "firstName": "Hải",
+      "lastName": "",
+      "email": "hohuuhai2011@gmail.com",
+      "phone": null,
+      "type": "customer",
+      "emails": [
+        "hohuuhai2011@gmail.com"
+      ],
+      "photoUrl": "https://d33v4339jhl8k0.cloudfront.net/customer-avatar/03.png",
+      "customerPersonType": true
+    },
+    "threadCount": 2,
+    "status": "closed",
+    "subject": "create a etherzero wallet",
+    "preview": "Hi Hải,Thanks for using MetaMask!You may add your wallet/account by following this guide: https://secure.helpscout.net/docs/5a4d70662c7d3a194367d6ef/article/5a4e58ee0428631938009872/Best,",
+    "createdBy": {
+      "id": 171374772,
+      "firstName": "Hải",
+      "lastName": "",
+      "email": "hohuuhai2011@gmail.com",
+      "phone": null,
+      "type": "customer",
+      "emails": [
+        "hohuuhai2011@gmail.com"
+      ],
+      "photoUrl": "https://d33v4339jhl8k0.cloudfront.net/customer-avatar/03.png",
+      "customerPersonType": true
+    },
+    "createdAt": "2018-03-06T13:05:32Z",
+    "userModifiedAt": "2018-03-06T13:24:06Z",
+    "closedAt": "2018-03-06T13:24:06Z",
+    "closedBy": {
+      "id": 264916,
+      "firstName": "Adam",
+      "lastName": "Ho",
+      "email": "ho.chee.choong@gmail.com",
+      "phone": null,
+      "type": "user",
+      "photoUrl": null
+    },
+    "source": {
+      "type": "docs",
+      "via": "customer"
+    },
+    "createdByType": "customer",
+    "cc": null,
+    "bcc": null,
+    "tags": [],
+    "draft": false,
+    "locked": false,
+    "spam": false
+  },
+  {
+    "id": 535906348,
+    "type": "email",
+    "folderId": 1780861,
+    "isDraft": false,
+    "number": 10871,
+    "owner": null,
+    "mailbox": {
+      "id": 133541,
+      "name": "Support"
+    },
+    "customer": {
+      "id": 171357337,
+      "firstName": "Andrew",
+      "lastName": "Pevitt",
+      "email": "apevdesign@gmail.com",
+      "phone": null,
+      "type": "customer",
+      "emails": [
+        "apevdesign@gmail.com"
+      ],
+      "photoUrl": "https://d33v4339jhl8k0.cloudfront.net/customer-avatar/02.png",
+      "customerPersonType": true
+    },
+    "threadCount": 2,
+    "status": "closed",
+    "subject": "cant find my address",
+    "preview": "Hi Andrew,Thanks for using MetaMask!You may restore your account using your seed phrase.There are two ways:1) After accepting the terms and conditions during set up, click on the link \"Restore from e",
+    "createdBy": {
+      "id": 264916,
+      "firstName": "Adam",
+      "lastName": "Ho",
+      "email": "ho.chee.choong@gmail.com",
+      "phone": null,
+      "type": "user",
+      "photoUrl": null
+    },
+    "createdAt": "2018-03-06T12:56:52Z",
+    "userModifiedAt": "2018-03-06T13:11:47Z",
+    "closedAt": "2018-03-06T13:11:47Z",
+    "closedBy": {
+      "id": 264916,
+      "firstName": "Adam",
+      "lastName": "Ho",
+      "email": "ho.chee.choong@gmail.com",
+      "phone": null,
+      "type": "user",
+      "photoUrl": null
+    },
+    "source": {
+      "type": "web",
+      "via": "user"
+    },
+    "createdByType": "user",
+    "cc": null,
+    "bcc": null,
+    "tags": [],
+    "draft": false,
+    "locked": false,
+    "spam": false
+  },
+  {
+    "id": 535900646,
+    "type": "email",
+    "folderId": 1780856,
+    "isDraft": false,
+    "number": 10870,
+    "owner": null,
+    "mailbox": {
+      "id": 133541,
+      "name": "Support"
+    },
+    "customer": {
+      "id": 171371162,
+      "firstName": "Pradeep",
+      "lastName": "Chauhan",
+      "email": "pradeep.chauhan79.pc@gmail.com",
+      "phone": null,
+      "type": "customer",
+      "emails": [
+        "pradeep.chauhan79.pc@gmail.com"
+      ],
+      "photoUrl": "https://d33v4339jhl8k0.cloudfront.net/customer-avatar/07.png",
+      "customerPersonType": true
+    },
+    "threadCount": 1,
+    "status": "active",
+    "subject": null,
+    "preview": "Hey  i am working on a dApp project but i want to connect a transaction with a already deployed contract the problem is that everytime i am sending a transaction metamask pop up generates to submit or",
+    "createdBy": {
+      "id": 171371162,
+      "firstName": "Pradeep",
+      "lastName": "Chauhan",
+      "email": "pradeep.chauhan79.pc@gmail.com",
+      "phone": null,
+      "type": "customer",
+      "emails": [
+        "pradeep.chauhan79.pc@gmail.com"
+      ],
+      "photoUrl": "https://d33v4339jhl8k0.cloudfront.net/customer-avatar/07.png",
+      "customerPersonType": true
+    },
+    "createdAt": "2018-03-06T12:45:13Z",
+    "userModifiedAt": "2018-03-06T12:45:13Z",
+    "closedAt": null,
+    "closedBy": null,
+    "source": {
+      "type": "email",
+      "via": "customer"
+    },
+    "createdByType": "customer",
+    "cc": [
+      "help@metamask.io"
+    ],
+    "bcc": null,
+    "tags": [],
+    "draft": false,
+    "locked": false,
+    "spam": false
+  },
+  {
+    "id": 535865734,
+    "type": "email",
+    "folderId": 1780861,
+    "isDraft": false,
+    "number": 10859,
+    "owner": null,
+    "mailbox": {
+      "id": 133541,
+      "name": "Support"
+    },
+    "customer": {
+      "id": 171359445,
+      "firstName": "Cam",
+      "lastName": "McS",
+      "email": "cammcs@ymail.com",
+      "phone": null,
+      "type": "customer",
+      "emails": [
+        "cammcs@ymail.com"
+      ],
+      "photoUrl": "https://d2ojpxxtu63wzl.cloudfront.net/static/5a159c47883ac091e960fa748f1b6604_cd843167f5994d4a0859b3e5ecd0efd5c36e3d21761375c4e0c03f9df3164daf",
+      "customerPersonType": true
+    },
+    "threadCount": 3,
+    "status": "closed",
+    "subject": "Re: can't send funds from classic mask",
+    "preview": "Hey  I found a way to do it using my private key off the main net. Not very impressed, won't use your wallet again. Thanks for getting back to me  Cameron McSorley Po 318 Forest Grove, BC V0K 1M0 250-",
+    "createdBy": {
+      "id": 171359445,
+      "firstName": "Cam",
+      "lastName": "McS",
+      "email": "cammcs@ymail.com",
+      "phone": null,
+      "type": "customer",
+      "emails": [
+        "cammcs@ymail.com"
+      ],
+      "photoUrl": "https://d2ojpxxtu63wzl.cloudfront.net/static/5a159c47883ac091e960fa748f1b6604_cd843167f5994d4a0859b3e5ecd0efd5c36e3d21761375c4e0c03f9df3164daf",
+      "customerPersonType": true
+    },
+    "createdAt": "2018-03-06T11:34:24Z",
+    "userModifiedAt": "2018-03-07T03:12:07Z",
+    "closedAt": "2018-03-07T03:12:07Z",
+    "closedBy": {
+      "id": 264916,
+      "firstName": "Adam",
+      "lastName": "Ho",
+      "email": "ho.chee.choong@gmail.com",
+      "phone": null,
+      "type": "user",
+      "photoUrl": null
+    },
+    "source": {
+      "type": "docs",
+      "via": "customer"
+    },
+    "createdByType": "customer",
+    "cc": [],
+    "bcc": null,
+    "tags": [],
+    "draft": false,
+    "locked": false,
+    "spam": false
+  },
+  {
+    "id": 535859649,
+    "type": "email",
+    "folderId": 1780861,
+    "isDraft": false,
+    "number": 10856,
+    "owner": null,
+    "mailbox": {
+      "id": 133541,
+      "name": "Support"
+    },
+    "customer": {
+      "id": 171357337,
+      "firstName": "Andrew",
+      "lastName": "Pevitt",
+      "email": "apevdesign@gmail.com",
+      "phone": null,
+      "type": "customer",
+      "emails": [
+        "apevdesign@gmail.com"
+      ],
+      "photoUrl": "https://d33v4339jhl8k0.cloudfront.net/customer-avatar/02.png",
+      "customerPersonType": true
+    },
+    "threadCount": 2,
+    "status": "closed",
+    "subject": "cant find my address",
+    "preview": "Hi Andrew,Thanks for using MetaMask!You may restore your account using your seed phrase.There are two ways:1) After accepting the terms and conditions during set up, click on the link \"Restore from ex",
+    "createdBy": {
+      "id": 171357337,
+      "firstName": "Andrew",
+      "lastName": "Pevitt",
+      "email": "apevdesign@gmail.com",
+      "phone": null,
+      "type": "customer",
+      "emails": [
+        "apevdesign@gmail.com"
+      ],
+      "photoUrl": "https://d33v4339jhl8k0.cloudfront.net/customer-avatar/02.png",
+      "customerPersonType": true
+    },
+    "createdAt": "2018-03-06T11:21:40Z",
+    "userModifiedAt": "2018-03-06T13:25:59Z",
+    "closedAt": "2018-03-06T13:25:59Z",
+    "closedBy": {
+      "id": 264916,
+      "firstName": "Adam",
+      "lastName": "Ho",
+      "email": "ho.chee.choong@gmail.com",
+      "phone": null,
+      "type": "user",
+      "photoUrl": null
+    },
+    "source": {
+      "type": "docs",
+      "via": "customer"
+    },
+    "createdByType": "customer",
+    "cc": null,
+    "bcc": null,
+    "tags": [],
+    "draft": false,
+    "locked": false,
+    "spam": false
+  },
+  {
+    "id": 535849096,
+    "type": "email",
+    "folderId": 1780856,
+    "isDraft": false,
+    "number": 10855,
+    "owner": null,
+    "mailbox": {
+      "id": 133541,
+      "name": "Support"
+    },
+    "customer": {
+      "id": 171353874,
+      "firstName": "Abed",
+      "lastName": "",
+      "email": "prof_1977@hotmail.com",
+      "phone": null,
+      "type": "customer",
+      "emails": [
+        "prof_1977@hotmail.com"
+      ],
+      "photoUrl": "https://d33v4339jhl8k0.cloudfront.net/customer-avatar/03.png",
+      "customerPersonType": true
+    },
+    "threadCount": 1,
+    "status": "active",
+    "subject": "add token",
+    "preview": "@james I tried adding the token and experienced the same. There was no response. Could it be due to a series of failed transactions on the address? But then the outward transactions seem fine, though",
+    "createdBy": {
+      "id": 171353874,
+      "firstName": "Abed",
+      "lastName": "",
+      "email": "prof_1977@hotmail.com",
+      "phone": null,
+      "type": "customer",
+      "emails": [
+        "prof_1977@hotmail.com"
+      ],
+      "photoUrl": "https://d33v4339jhl8k0.cloudfront.net/customer-avatar/03.png",
+      "customerPersonType": true
+    },
+    "createdAt": "2018-03-06T10:58:27Z",
+    "userModifiedAt": "2018-03-06T13:42:33Z",
+    "closedAt": null,
+    "closedBy": null,
+    "source": {
+      "type": "docs",
+      "via": "customer"
+    },
+    "createdByType": "customer",
+    "cc": null,
+    "bcc": null,
+    "tags": [],
+    "draft": false,
+    "locked": false,
+    "spam": false
+  }
+]issues/
+issues/
+convos.json
