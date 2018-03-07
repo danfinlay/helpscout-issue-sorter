@@ -2,7 +2,7 @@ const level = require('level')
 const db = level('./issues')
 
 const natural = require('natural')
-const classifier = new natural.BayesClassifier()
+const classifier = new natural.LogisticRegressionClassifier()
 
 db.createReadStream()
 .on('data', function (data) {

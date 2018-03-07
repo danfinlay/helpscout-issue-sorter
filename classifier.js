@@ -1,7 +1,7 @@
 const natural = require('natural')
 let classifier
 
-natural.BayesClassifier.load('classifier.json', null, function(err, _classifier) {
+natural.LogisticRegressionClassifier.load('classifier.json', null, function(err, _classifier) {
   classifier = _classifier
 });
 
@@ -11,3 +11,4 @@ module.exports = function classify (string) {
   }
   return classifier.classify(string)
 }
+

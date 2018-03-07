@@ -5,7 +5,7 @@ A set of scripts intended to help auto-reply intelligently to help desk requests
 Includes 3 scripts:
 
 - slurp.js: Downloads helpscout issues into local leveldb.
-- analyze.js: Trains a bayesian classifier with tagged leveldb issues.
+- analyze.js: Trains a logistic regression classifier with tagged leveldb issues.
 - classifier.js: Uses the trained classifier to infer tags from given text.
 
 ## Slurp
@@ -24,5 +24,5 @@ To use: `node analyze.js`
 
 ## Classify
 
-Requires the Analyze script to have saved its `classify.json` serialied trained bayesian classifier. Exports a function that accepts a `string` as its input, and will return the closest identified tag.
+Requires the Analyze script to have saved its `classify.json` serialied trained classifier. Exports a function that accepts a `string` as its input, and will return the closest identified tag.
 
