@@ -26,11 +26,11 @@ async function start () {
     const results = await getConversations(pageNum)
     const { page, pages, count, items } = results
 
-    await dbBatch(items.map((item) => {
+    await db.batch(items.map((item) => {
       return {
         type: 'put',
         key: item.id,
-        value: item,
+        value: JSON.stringify(item),
       }
     }))
     console.log('batch saved successfully.')
@@ -38,16 +38,6 @@ async function start () {
     maxPage = pages
     pageNum++
   }
-
-}
-
-async function dbBatch (opts) {
-  return new Promise((res, rej) => {
-    db.batch(opts, (err) => {
-      if (err) return rej(err)
-      res()
-    })
-  })
 }
 
 async function getConversations (pageNum) {
