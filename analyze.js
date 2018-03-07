@@ -21,6 +21,7 @@ db.createReadStream()
   console.log('stream closed')
 })
 .on('end', function () {
+  classifier.train()
   saveClassifier()
 })
 
