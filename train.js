@@ -11,9 +11,7 @@ db.createReadStream()
   const item = result.item
   const threads = item.threads
   const tags = item.tags || []
-  console.log('a data')
   if (tags.length > 0) {
-    console.log('a tag')
     const tag = item.tags[0]
     const userText = threads.filter(item => item.type === 'customer')
     .map(thread => thread.body)

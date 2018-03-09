@@ -17,32 +17,43 @@ start().catch(console.error)
 async function start () {
   helpscout = new Helpscout(key, mailboxId)
 
-  let pageNum = 0
+  let pageNum = 1
   let maxPage = 999
 
-  while (pageNum < maxPage) {
+  while (pageNum <= maxPage) {
     console.log(`requesting page ${pageNum} of ${maxPage}`)
 
-    const results = await getConversations(pageNum)
-    const { page, pages, count, items } = results
+    try {
+      const results = await getConversations(pageNum)
 
-    await pause(items.length * interval)
-    const conversations = await Promise.all(items.map(async (item) => {
-      const conversation = await getConversation(item.id)
-      return conversation
-    }))
+      const { page, pages, count, items } = results
 
-    await db.batch(conversations.map((item) => {
-      return {
-        type: 'put',
-        key: item.item.id,
-        value: JSON.stringify(item),
-      }
-    }))
+      await pause(items.length * interval)
+      const conversations = await Promise.all(items.map(async (item) => {
+        try {
+          const conversation = await getConversation(item.id)
+          return conversation
+        } catch (e) { return null }
+      }))
 
-    maxPage = pages
-    pageNum++
-    await pause(interval)
+      await db.batch(conversations.map((item) => {
+        if (!item) return null
+
+        return {
+          type: 'put',
+          key: item.item.id,
+          value: JSON.stringify(item),
+        }
+      }))
+
+      maxPage = pages
+      pageNum++
+      await pause(interval)
+
+    } catch (e) {
+      console.log('skipping that page because', e)
+      pageNum++
+    }
   }
 }
 
@@ -75,3 +86,4 @@ async function pause (ms) {
     setTimeout(resolve, ms)
   })
 }
+
