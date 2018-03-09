@@ -9,7 +9,7 @@ let helpscout
 const minute = 1000 * 60
 const period = minute * 10
 const limit = 2000
-const interval = limit / period
+const interval = period / limit
 
 start().catch(console.error)
 
@@ -21,34 +21,36 @@ async function start () {
 
   while (pageNum < maxPage) {
     console.log(`requesting page ${pageNum} of ${maxPage}`)
+
     const results = await getConversations(pageNum)
     const { page, pages, count, items } = results
 
+    await pause(items.length * interval)
     const conversations = await Promise.all(items.map(async (item) => {
       console.log(`requesting conversation id ${item.id}`)
       const conversation = await getConversation(item.id)
       console.log('A CONVERSATION:', item.id)
       return conversation
     }))
-    console.dir(conversations)
 
     await db.batch(conversations.map((item) => {
-      console.log('putting item with', JSON.stringify(item))
       return {
         type: 'put',
         key: item.item.id,
         value: JSON.stringify(item),
       }
     }))
+
     console.log('batch saved successfully.')
 
     maxPage = pages
     pageNum++
+    await pause(interval)
   }
 }
 
 async function getConversations (pageNum) {
-  await pause()
+  await pause(interval)
   return new Promise((res, rej) => {
     helpscout.conversations.list({
       page: pageNum || 1,
@@ -60,7 +62,7 @@ async function getConversations (pageNum) {
 }
 
 async function getConversation (conversationId) {
-  await pause()
+  await pause(interval)
   return new Promise((res, rej) => {
     helpscout.conversations.get({
       id: conversationId,
@@ -71,8 +73,9 @@ async function getConversation (conversationId) {
   })
 }
 
-async function pause () {
+async function pause (ms) {
+  console.log(`pausing ${ms}ms`)
   return new Promise((resolve) => {
-    setTimeout(resolve, interval)
+    setTimeout(resolve, ms)
   })
 }

@@ -6,12 +6,19 @@ const classifier = new natural.LogisticRegressionClassifier()
 
 db.createReadStream()
 .on('data', function (data) {
-  const item = JSON.parse(data.value)
-  if (item.tags.length > 0) {
+
+  const result = JSON.parse(data.value)
+  const item = result.item
+  const threads = item.threads
+  const tags = item.tags || []
+  console.log('a data')
+  if (tags.length > 0) {
+    console.log('a tag')
     const tag = item.tags[0]
-    const { subject, preview } = item
-    const text = `${subject} ${preview}`
-    classifier.addDocument(text, tag)
+    const userText = threads.filter(item => item.type === 'customer')
+    .map(thread => thread.body)
+    .join(' ')
+    classifier.addDocument(userText, tag)
   }
 })
 .on('error', function (err) {

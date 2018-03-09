@@ -2966,3 +2966,5 @@ node_modules/
 issues/
 convos.json
 config.json
+conversation.json
+helpscouttest.js
