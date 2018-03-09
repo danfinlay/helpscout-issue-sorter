@@ -5,8 +5,7 @@ A set of scripts intended to help auto-reply intelligently to help desk requests
 Includes 3 scripts:
 
 - slurp.js: Downloads helpscout issues into local leveldb.
-- train.js: Trains a logistic regression classifier with tagged leveldb issues.
-- classifier.js: Uses the trained classifier to infer tags from given text.
+- train.js: Trains a logistic regression classifier with tagged leveldb issues.  classifier.js: Uses the trained classifier to infer tags from given text.
 
 ## Slurp
 
@@ -25,4 +24,10 @@ To use: `node train.js`
 ## Classify
 
 Requires the Train script to have saved its `classify.json` serialied trained classifier. Exports a function that accepts a `string` as its input, and will return the closest identified tag.
+
+## Tag Frequency
+
+Bonus script! Reports the current most popular tags. Pretty simple, could be a lot more interesting, but it's really not!
+
+`node tag-frequency.js`
 

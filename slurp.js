@@ -6,10 +6,11 @@ const { key, mailboxId } = config
 let helpscout
 
 // Helpscout rate limits at 2000 requests per minute for single-site desks.
+// Requesting "safely" below that limit (I keep getting rate limited!!!)
 const minute = 1000 * 60
 const period = minute * 10
-const limit = 2000
-const interval = period / limit
+const limit = 1500
+const interval = Math.ceil(period / limit)
 
 start().catch(console.error)
 
