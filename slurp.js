@@ -27,9 +27,7 @@ async function start () {
 
     await pause(items.length * interval)
     const conversations = await Promise.all(items.map(async (item) => {
-      console.log(`requesting conversation id ${item.id}`)
       const conversation = await getConversation(item.id)
-      console.log('A CONVERSATION:', item.id)
       return conversation
     }))
 
@@ -40,8 +38,6 @@ async function start () {
         value: JSON.stringify(item),
       }
     }))
-
-    console.log('batch saved successfully.')
 
     maxPage = pages
     pageNum++
@@ -74,7 +70,6 @@ async function getConversation (conversationId) {
 }
 
 async function pause (ms) {
-  console.log(`pausing ${ms}ms`)
   return new Promise((resolve) => {
     setTimeout(resolve, ms)
   })

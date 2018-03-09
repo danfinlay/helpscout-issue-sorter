@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "helpscout": "0.0.1",
+    "helpscout": "github:danfinlay/helpscout",
     "level": "^3.0.0",
     "natural": "^0.5.6",
     "pify": "^3.0.0"
