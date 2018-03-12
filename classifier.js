@@ -5,10 +5,22 @@ natural.LogisticRegressionClassifier.load('classifier.json', null, function(err,
   classifier = _classifier
 });
 
-module.exports = function classify (string) {
+function classify (string) {
   if (!classifier) {
     return null
   }
   return classifier.classify(string)
+}
+
+function getClassifications (string) {
+  if (!classifier) {
+    return null
+  }
+  return classifier.getClassifications(string)
+}
+
+module.exports = {
+  classify,
+  getClassifications,
 }
 

@@ -59,10 +59,15 @@ async function start () {
 
 async function getConversations (pageNum) {
   await pause(interval)
+  console.log('getting those convos')
   return new Promise((res, rej) => {
     helpscout.conversations.list({
       page: pageNum || 1,
+      // only get tagged conversations
+      // undocumented hack!!!
+      'query': '-tags:1',
     }, (err, convos) => {
+      console.log('convos returned with', err, convos)
       if (err) return rej(err)
       return res(convos)
     })

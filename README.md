@@ -25,9 +25,23 @@ To use: `node train.js`
 
 Requires the Train script to have saved its `classify.json` serialied trained classifier. Exports a function that accepts a `string` as its input, and will return the closest identified tag.
 
+### Usage
+
+```javascript
+var classifier = require('./classify')
+classifier.classify('I am a turtle')
+// Returns best guess at tag
+```
+
 ## Tag Frequency
 
-Bonus script! Reports the current most popular tags. Pretty simple, could be a lot more interesting, but it's really not!
+Bonus script! Reports the current most popular tags. Pretty simple, could be a lot more interesting, but it's really not! To adjust the tag frequency it checks for, requires changing a hard-coded constant near the top of the file.
 
 `node tag-frequency.js`
+
+## Estimated Tag Frequency
+
+Like `tag-frequency.js`, except for untagged tickets, uses `classify.js` to guess the tag, and then prints out those extrapolated tag frequencies.
+
+Usage: `node estimated-tag-frequency.js`.
 
